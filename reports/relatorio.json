@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-04T05:27:20+00:00",
+  "gerado_em": "2026-11-04T05:31:45+00:00",
   "criterios": {
     "prioridade_max": 900,
     "teto": 1100,
@@ -11,7 +11,7 @@
       "fonte": "chavesnamao",
       "ok": true,
       "bloqueada": false,
-      "coletados": 223,
+      "coletados": 220,
       "paginas": 24,
       "cobertura_completa": true,
       "erros": []
@@ -19,7 +19,13 @@
   ],
   "prioridade": [],
   "elegiveis": [],
+  "verificar_preco": [],
   "excepcionais_acima_do_teto": [],
+  "panorama": {
+    "na_area_tipo": 4,
+    "acima_do_teto": 4,
+    "menor_acima_do_teto": 1290.0
+  },
   "indisponiveis": [],
-  "descartados_qtd": 223
+  "descartados_qtd": 253
 }
