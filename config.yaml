@@ -34,6 +34,9 @@ regioes:
 # Em Paulínia, bairro não listado é aceito com este peso (cidade pequena).
 peso_bairro_nao_listado_paulinia: 5
 
+# Coletas completas seguidas sem o anúncio antes de marcá-lo indisponível
+ausencias_para_indisponivel: 2
+
 tipos_aceitos: [kitnet, studio, edicula, casa_fundos, casa_1_quarto, casa_pequena]
 
 http:

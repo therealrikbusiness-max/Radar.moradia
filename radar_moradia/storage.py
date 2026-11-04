@@ -80,6 +80,7 @@ class Store:
             else:
                 item.status = STATUS_REPETIDO
         item.ultima_verificacao = agora
+        item.ausencias = 0
         self.db.execute(
             "INSERT OR REPLACE INTO anuncios VALUES (?,?,?,?,?,?,?)",
             (item.uid, item.fonte, item.id_fonte, item.status, item.primeira_vez, agora,
@@ -87,17 +88,22 @@ class Store:
         )
         return item
 
-    def mark_unavailable(self, fonte: str, vistos: Iterable[str], agora: str) -> list[Listing]:
-        """Marca indisponíveis os anúncios da fonte que não apareceram numa coleta COMPLETA."""
+    def mark_unavailable(self, fonte: str, vistos: Iterable[str], agora: str,
+                         min_ausencias: int = 2) -> list[Listing]:
+        """Conta ausências em coletas COMPLETAS; marca indisponível após `min_ausencias`
+        seguidas (a paginação das fontes pode oscilar entre execuções)."""
         vistos = set(vistos)
         out = []
         for item in self.all():
-            if item.fonte == fonte and item.uid not in vistos and item.status != STATUS_INDISPONIVEL:
+            if item.fonte != fonte or item.uid in vistos or item.status == STATUS_INDISPONIVEL:
+                continue
+            item.ausencias += 1
+            if item.ausencias >= min_ausencias:
                 item.status = STATUS_INDISPONIVEL
-                self.db.execute("UPDATE anuncios SET status=?, dados=? WHERE uid=?",
-                                (item.status, json.dumps(item.to_dict(), ensure_ascii=False), item.uid))
                 self._hist(item.uid, agora, "indisponivel", None)
                 out.append(item)
+            self.db.execute("UPDATE anuncios SET status=?, dados=? WHERE uid=?",
+                            (item.status, json.dumps(item.to_dict(), ensure_ascii=False), item.uid))
         return out
 
     def log_run(self, agora: str, resumo: dict) -> None:

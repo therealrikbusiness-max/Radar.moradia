@@ -72,7 +72,8 @@ def run(cfg: dict, db_path: str = "data/radar.db", outdir: str = "reports",
                 score(item, cfg)
                 store.upsert(item, agora)
             if result.cobertura_completa:
-                gone = store.mark_unavailable(src.nome, uids, agora)
+                gone = store.mark_unavailable(src.nome, uids, agora,
+                                              int(cfg.get("ausencias_para_indisponivel", 2)))
                 if gone:
                     log.info("%s anúncios de %s marcados como indisponíveis", len(gone), src.nome)
             elif result.listings or not result.ok:
@@ -87,6 +88,7 @@ def run(cfg: dict, db_path: str = "data/radar.db", outdir: str = "reports",
         todos = store.all()
         # Reclassifica tudo (configuração pode ter mudado) e detecta duplicatas
         for it in todos:
+            normalize(it)
             score(it, cfg)
         ativos = [i for i in todos if i.status != STATUS_INDISPONIVEL]
         mark_duplicates(ativos)

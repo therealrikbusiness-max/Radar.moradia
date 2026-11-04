@@ -80,3 +80,15 @@ def test_total_nao_soma_iptu_incluso():
     it = normalize(Listing(fonte="x", id_fonte="1", url="u", titulo="Kitnet", aluguel=800,
                            iptu=30, descricao="IPTU incluso no aluguel"))
     assert it.total_mensal == 800
+
+
+@pytest.mark.parametrize("titulo,val", [
+    ("Kitnet com 1 dormitório para alugar, 14 m² por R$ 1.300,00/mês - Barão Geraldo", 1300.0),
+    ("Casa com 1 dormitório para alugar, 40 m² por R$ 1.520,00 - Vila Marieta", 1520.0),
+    ("Apartamento, 44 m² - venda por R$ 345.000,00 ou aluguel por R$ 2.365,71/", 2365.71),
+    ("Terreno, 2690 m² - venda por R$ 795.000,00 ou alug", None),
+    ("Kitnet / Stúdio", None),
+])
+def test_price_in_title(titulo, val):
+    from radar_moradia.normalize import price_in_title
+    assert price_in_title(titulo) == val

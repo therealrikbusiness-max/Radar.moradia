@@ -10,6 +10,7 @@ from .normalize import norm
 CAT_PRIORIDADE = "prioridade"     # total <= prioridade_max
 CAT_ELEGIVEL = "elegivel"         # prioridade_max < total <= teto
 CAT_EXCEPCIONAL = "excepcional"   # acima do teto, mas muito bom (seção separada)
+CAT_VERIFICAR = "verificar"       # preço do título dentro do teto, mas diverge do preço do anúncio
 CAT_DESCARTADO = "descartado"
 
 
@@ -109,4 +110,9 @@ def score(item: Listing, cfg: dict) -> Listing:
     else:
         item.categoria = CAT_DESCARTADO
         item.motivos.append("acima do teto")
+        if item.preco_titulo is not None:
+            alt = item.preco_titulo + (total - item.aluguel if item.aluguel else 0)
+            if alt <= orc["teto"]:
+                item.categoria = CAT_VERIFICAR
+                item.motivos.append(f"título cita R$ {item.preco_titulo:,.0f}".replace(",", "."))
     return item

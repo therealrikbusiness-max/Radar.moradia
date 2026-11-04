@@ -53,6 +53,8 @@ def test_status_ciclo(tmp_path):
     assert st.upsert(L(uid="u1"), "t1").status == "novo"
     assert st.upsert(L(uid="u1"), "t2").status == "repetido"
     assert st.upsert(L(uid="u1", aluguel=750), "t3").status == "atualizado"
+    assert st.mark_unavailable("t", set(), "t4a") == []          # 1ª ausência: ainda não
+    assert st.get("u1").ausencias == 1
     gone = st.mark_unavailable("t", set(), "t4")
     assert [g.uid for g in gone] == ["u1"] and st.get("u1").status == "indisponivel"
     assert st.upsert(L(uid="u1", aluguel=750), "t5").status == "atualizado"  # reapareceu
@@ -118,8 +120,10 @@ def test_pipeline_fim_a_fim(tmp_path, cfg, monkeypatch):
     assert "Kitnet mobiliada" in md and "Sala comercial" not in md
     assert "boom | falhou" in md
 
-    # 2ª execução: anúncio 1 sumiu da fonte (coleta completa) => indisponível
+    # Anúncio 1 sumiu da fonte em 2 coletas completas seguidas => indisponível
     FakeSource.payload = FakeSource.payload[1:]
+    pipeline.run(cfg, str(tmp_path / "db.sqlite"), str(out))
+    assert json.loads((out / "relatorio.json").read_text())["indisponiveis"] == []
     pipeline.run(cfg, str(tmp_path / "db.sqlite"), str(out))
     js = json.loads((out / "relatorio.json").read_text())
     assert js["prioridade"] == [] and js["indisponiveis"][0]["id_fonte"] == "1"
@@ -139,3 +143,20 @@ def test_pipeline_falha_nao_marca_indisponivel(tmp_path, cfg, monkeypatch):
     st = Store(db)
     assert st.get(pipeline.make_uid("fake", "1")).status != "indisponivel"
     st.close()
+
+
+def test_preco_titulo_divergente_vai_para_verificar(cfg):
+    it = L(titulo="Kitnet com 1 dormitório para locação, 30m² por R$ 900,00/mês - Centro",
+           aluguel=1375)
+    assert it.preco_titulo == 900 and it.alertas
+    assert score(it, cfg).categoria == "verificar"
+    same = L(titulo="Kitnet para alugar por R$ 800,00/mês", aluguel=800)
+    assert same.preco_titulo is None and same.alertas == []
+
+
+def test_relatorio_panorama(tmp_path, cfg):
+    from radar_moradia import report
+    a = score(L(uid="a", aluguel=1300, status="novo"), cfg)
+    md, js = report.build([a], [], "agora", cfg)
+    assert js["panorama"]["menor_acima_do_teto"] == 1300
+    assert "Panorama" in md and "não elegíveis" in md

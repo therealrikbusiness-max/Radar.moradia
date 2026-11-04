@@ -12,7 +12,7 @@ import requests
 
 def novidades(js: dict) -> list[dict]:
     out = []
-    for sec in ("prioridade", "elegiveis", "excepcionais_acima_do_teto"):
+    for sec in ("prioridade", "elegiveis", "verificar_preco", "excepcionais_acima_do_teto"):
         for it in js.get(sec, []):
             if it.get("status") in ("novo", "atualizado"):
                 out.append(dict(it, _secao=sec))
@@ -24,7 +24,7 @@ def corpo(itens: list[dict]) -> str:
     for it in itens:
         total = it.get("total_mensal")
         t = f"R$ {total:,.0f}".replace(",", ".") if total else "valor não informado"
-        sec = {"prioridade": "🟢", "elegiveis": "🟡", "excepcionais_acima_do_teto": "🔵 acima do teto"}[it["_secao"]]
+        sec = {"prioridade": "🟢", "elegiveis": "🟡", "verificar_preco": "🟠 verificar preço", "excepcionais_acima_do_teto": "🔵 acima do teto"}[it["_secao"]]
         wa = f" · [WhatsApp]({it['whatsapp_link']})" if it.get("whatsapp_link") else ""
         linhas.append(f"- {sec} **{t}** — [{it['titulo']}]({it['url']}) — "
                       f"{it.get('bairro') or '?'}, {it.get('municipio') or '?'} ({it['status']}){wa}")

@@ -238,8 +238,28 @@ def normalize(item: Listing) -> Listing:
             item.telefone = phones[0]
     if item.telefone and not item.whatsapp_link:
         item.whatsapp_link = whatsapp_link(item.telefone)
+    item.preco_titulo = None
+    item.alertas = [a for a in item.alertas if not a.startswith("preço no título")]
+    pt = price_in_title(item.titulo)
+    if pt and item.aluguel and abs(pt - item.aluguel) >= 1:
+        item.preco_titulo = pt
+        item.alertas.append(f"preço no título (R$ {pt:,.2f}) diverge do preço do anúncio "
+                            f"(R$ {item.aluguel:,.2f}); confirme".replace(",", "X").replace(".", ",").replace("X", "."))
     item.total_mensal = total_mensal(item)
     return item
+
+
+def price_in_title(titulo: str) -> Optional[float]:
+    """Valor de aluguel citado no título ('por R$ 1.300,00/mês'). Ignora preços de venda."""
+    t = norm(titulo)
+    val = r"r\$\s*([\d.]+(?:,\d{1,2})?)"
+    m = re.search(r"(?:aluguel|locacao) por " + val, t)
+    if m:
+        return parse_money("R$ " + m.group(1))
+    if "venda" in t:
+        return None
+    m = re.search(val + r"\s*(?:/\s*mes|mensa|$|\s*-)", t)
+    return parse_money("R$ " + m.group(1)) if m else None
 
 
 def total_mensal(item: Listing) -> Optional[float]:

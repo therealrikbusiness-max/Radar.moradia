@@ -6,7 +6,7 @@ from pathlib import Path
 
 from .models import STATUS_INDISPONIVEL, Listing
 from .normalize import format_phone
-from .scoring import CAT_ELEGIVEL, CAT_EXCEPCIONAL, CAT_PRIORIDADE
+from .scoring import CAT_ELEGIVEL, CAT_EXCEPCIONAL, CAT_PRIORIDADE, CAT_VERIFICAR
 
 NI = "não informado"
 
@@ -47,6 +47,8 @@ def _card(it: Listing) -> str:
         f" · **Status:** {it.status} · **Fonte:** {it.fonte} (id {it.id_fonte})",
         f"- **Pontuação:** {it.pontuacao}/100 — {'; '.join(it.motivos)}",
     ]
+    for a in it.alertas:
+        linhas.append(f"- ⚠️ {a}")
     if it.duplicata_de:
         linhas.append(f"- ⚠️ Provável duplicata de `{it.duplicata_de}`")
     return "\n".join(linhas)
@@ -58,6 +60,12 @@ def build(items: list[Listing], fontes: list[dict], agora: str, cfg: dict) -> tu
         return sorted((i for i in ativos if i.categoria == cat and not i.duplicata_de),
                       key=lambda x: (-x.pontuacao, x.total_mensal or 1e9))
     prio, eleg, exc = sec(CAT_PRIORIDADE), sec(CAT_ELEGIVEL), sec(CAT_EXCEPCIONAL)
+    verif = sec(CAT_VERIFICAR)
+    # Panorama: anúncios na área e no tipo procurados, mas acima do teto
+    na_area = [i for i in ativos if i.regiao and i.tipo in cfg["tipos_aceitos"]
+               and i.total_mensal and not i.duplicata_de]
+    acima = sorted((i for i in na_area if i.total_mensal > cfg["orcamento"]["teto"]),
+                   key=lambda x: x.total_mensal)
     indisp = [i for i in items if i.status == STATUS_INDISPONIVEL]
     orc = cfg["orcamento"]
 
@@ -74,11 +82,19 @@ def build(items: list[Listing], fontes: list[dict], agora: str, cfg: dict) -> tu
         md.append(f"| {f['fonte']} | {sit} | {f['coletados']} | {'; '.join(f['erros'])[:200] or '—'} |")
     md.append("")
     novos = [i for i in ativos if i.status == "novo" and i.categoria in (CAT_PRIORIDADE, CAT_ELEGIVEL, CAT_EXCEPCIONAL)]
-    md.append(f"**Resumo:** {len(prio)} prioridade · {len(eleg)} elegíveis · {len(exc)} excepcionais "
+    md.append(f"**Resumo:** {len(prio)} prioridade · {len(eleg)} elegíveis · {len(verif)} a verificar · {len(exc)} excepcionais "
               f"(acima do teto) · {len(novos)} novos relevantes · {len(indisp)} indisponíveis")
+    md.append("")
+    md.append("## 📊 Panorama da área-alvo")
+    md.append(f"- Anúncios do tipo procurado na área-alvo (ativos): **{len(na_area)}**; "
+              f"acima do teto: **{len(acima)}**.")
+    if acima:
+        md.append("- Mais baratos acima do teto (referência de mercado, **não elegíveis**): " + "; ".join(
+            f"[{_money(i.total_mensal)} — {i.bairro}]({i.url})" for i in acima[:5]))
     md.append("")
     for titulo, lista in ((f"## 🟢 Prioridade (até {_money(orc['prioridade_max'])})", prio),
                           (f"## 🟡 Elegíveis (até {_money(orc['teto'])})", eleg),
+                          ("## 🟠 Preço divergente — título cita valor dentro do teto (verificar no anúncio)", verif),
                           ("## 🔵 Excepcionais — ACIMA DO TETO (não elegíveis, apenas referência)", exc)):
         md.append(titulo)
         md.append("")
@@ -97,7 +113,10 @@ def build(items: list[Listing], fontes: list[dict], agora: str, cfg: dict) -> tu
         "fontes": fontes,
         "prioridade": [i.to_dict() for i in prio],
         "elegiveis": [i.to_dict() for i in eleg],
+        "verificar_preco": [i.to_dict() for i in verif],
         "excepcionais_acima_do_teto": [i.to_dict() for i in exc],
+        "panorama": {"na_area_tipo": len(na_area), "acima_do_teto": len(acima),
+                     "menor_acima_do_teto": acima[0].total_mensal if acima else None},
         "indisponiveis": [i.to_dict() for i in indisp],
         "descartados_qtd": sum(1 for i in ativos if i.categoria == "descartado"),
     }

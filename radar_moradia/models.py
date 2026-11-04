@@ -36,6 +36,9 @@ class Listing:
     telefone: Optional[str] = None
     whatsapp_link: Optional[str] = None
     anunciante: Optional[str] = None
+    preco_titulo: Optional[float] = None  # valor citado no título, se divergente
+    alertas: list[str] = field(default_factory=list)
+    ausencias: int = 0                 # coletas completas seguidas sem o anúncio
     # Preenchidos pelo pipeline
     uid: str = ""
     total_mensal: Optional[float] = None
