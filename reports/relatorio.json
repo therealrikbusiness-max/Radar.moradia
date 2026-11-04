@@ -1,0 +1,25 @@
+{
+  "gerado_em": "2026-11-04T05:27:20+00:00",
+  "criterios": {
+    "prioridade_max": 900,
+    "teto": 1100,
+    "excepcional_max": 1400,
+    "excepcional_pontuacao_min": 70
+  },
+  "fontes": [
+    {
+      "fonte": "chavesnamao",
+      "ok": true,
+      "bloqueada": false,
+      "coletados": 223,
+      "paginas": 24,
+      "cobertura_completa": true,
+      "erros": []
+    }
+  ],
+  "prioridade": [],
+  "elegiveis": [],
+  "excepcionais_acima_do_teto": [],
+  "indisponiveis": [],
+  "descartados_qtd": 223
+}
