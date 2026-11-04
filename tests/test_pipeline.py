@@ -108,6 +108,7 @@ def test_pipeline_fim_a_fim(tmp_path, cfg, monkeypatch):
     monkeypatch.setitem(pipeline.REGISTRY, "boom", Boom)
     cfg["fontes"] = {"fake": {"ativa": True, "modulo": "fake"},
                      "boom": {"ativa": True, "modulo": "boom"}}
+    cfg["ausencias_para_indisponivel"] = 2
     out = tmp_path / "rep"
     r1 = pipeline.run(cfg, str(tmp_path / "db.sqlite"), str(out))
     assert r1["prioridade"] == 1
