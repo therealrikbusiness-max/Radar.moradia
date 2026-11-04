@@ -35,7 +35,8 @@ regioes:
 peso_bairro_nao_listado_paulinia: 5
 
 # Coletas completas seguidas sem o anúncio antes de marcá-lo indisponível
-ausencias_para_indisponivel: 2
+# (a paginação do MCP oscila entre execuções; observado em 04/11/2026)
+ausencias_para_indisponivel: 3
 
 tipos_aceitos: [kitnet, studio, edicula, casa_fundos, casa_1_quarto, casa_pequena]
 
