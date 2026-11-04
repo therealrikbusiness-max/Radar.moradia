@@ -1,0 +1,25 @@
+name: probe-fontes
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: ["probe/**"]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests
+      - run: python probe/probe.py
+      - name: Publica amostras no branch probe-data
+        run: |
+          git config user.name "radar-bot"; git config user.email "radar-bot@users.noreply.github.com"
+          git checkout --orphan probe-data
+          git rm -rf --cached . >/dev/null
+          git add -f probe_out
+          git commit -m "Amostras da sondagem $(date -u +%FT%TZ)"
+          git push -f origin probe-data
