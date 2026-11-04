@@ -1,0 +1,4638 @@
+{
+ "esperado": {
+  "id_fonte": "30482980",
+  "aluguel": 1450.0,
+  "bairro": "Barão Geraldo",
+  "municipio": "Campinas",
+  "quartos": 1
+ },
+ "mcp_bruto": null,
+ "log": [
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "minPrice": 1450,
+    "maxPrice": 1450
+   },
+   "page": 1,
+   "pagination": {
+    "page": 1,
+    "pageSize": 15,
+    "totalResults": 17,
+    "totalPages": 2
+   },
+   "hits": [
+    {
+     "id": "16314590",
+     "priceBRL": 1450,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Centro"
+     },
+     "bedrooms": null,
+     "areaM2": 32,
+     "title": "Sala comercial para aluguel no Centro de Campinas – 32 m², 2 banheiros e 1 vaga"
+    },
+    {
+     "id": "47774629",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Cidade Universitária"
+     },
+     "bedrooms": 1,
+     "areaM2": 20,
+     "title": "Suítes para Locação Cidade Universitária Campinas/SP"
+    },
+    {
+     "id": "45850500",
+     "priceBRL": 1450,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Jardim Dom Bosco"
+     },
+     "bedrooms": null,
+     "areaM2": 13,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "28360268",
+     "priceBRL": 1450,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Jardim Dom Bosco"
+     },
+     "bedrooms": null,
+     "areaM2": 13,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "16886692",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Barão Geraldo"
+     },
+     "bedrooms": 1,
+     "areaM2": 25,
+     "title": "Kitnet / Stúdio"
+    },
+    {
+     "id": "22668002",
+     "priceBRL": 1450,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Centro"
+     },
+     "bedrooms": null,
+     "areaM2": 60,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "47774369",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Cidade Universitária"
+     },
+     "bedrooms": 1,
+     "areaM2": 20,
+     "title": "Suítes para Locação Cidade Universitária Campinas/SP"
+    },
+    {
+     "id": "40446496",
+     "priceBRL": 1450,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Centro"
+     },
+     "bedrooms": null,
+     "areaM2": 51,
+     "title": "Sala para alugar em Campinas, Centro, com 51 m²"
+    },
+    {
+     "id": "44310206",
+     "priceBRL": 1450,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Vila Teixeira"
+     },
+     "bedrooms": null,
+     "areaM2": 176,
+     "title": "Salão para aluguel em Vila Teixeira, Campinas - SP | Cód 59514"
+    },
+    {
+     "id": "19807930",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Barão Geraldo"
+     },
+     "bedrooms": 1,
+     "areaM2": 25,
+     "title": "Kitnet / Stúdio"
+    },
+    {
+     "id": "38523756",
+     "priceBRL": 1450,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Centro"
+     },
+     "bedrooms": null,
+     "areaM2": 57,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "29842847",
+     "priceBRL": 1450,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Centro"
+     },
+     "bedrooms": null,
+     "areaM2": 30,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "9474773",
+     "priceBRL": 1450,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Centro"
+     },
+     "bedrooms": null,
+     "areaM2": 25,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "35623579",
+     "priceBRL": 1450,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Swift"
+     },
+     "bedrooms": 1,
+     "areaM2": 30,
+     "title": "Apartamento com 1 Quarto(s) e 1 banheiro(s) para Alugar, 30 m² por R$ 1250 / Mês"
+    },
+    {
+     "id": "45424121",
+     "priceBRL": 1450,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Cambuí"
+     },
+     "bedrooms": null,
+     "areaM2": 53,
+     "title": "Salas à venda em Centro - SP"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "minPrice": 1450,
+    "maxPrice": 1450
+   },
+   "page": 2,
+   "pagination": {
+    "page": 2,
+    "pageSize": 15,
+    "totalResults": 17,
+    "totalPages": 2
+   },
+   "hits": [
+    {
+     "id": "9459371",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Vila Santa Isabel"
+     },
+     "bedrooms": 1,
+     "areaM2": 22,
+     "title": "Kitnet / Stúdio"
+    },
+    {
+     "id": "34822241",
+     "priceBRL": 1450,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Jardim Campo Grande"
+     },
+     "bedrooms": 2,
+     "areaM2": 53,
+     "title": "Apartamento"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "propertyType": "kitnet",
+    "city": "Campinas",
+    "state": "SP",
+    "minPrice": 1450,
+    "maxPrice": 1450
+   },
+   "page": 1,
+   "pagination": {
+    "page": 1,
+    "pageSize": 15,
+    "totalResults": 5,
+    "totalPages": 1
+   },
+   "hits": [
+    {
+     "id": "19807930",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Barão Geraldo"
+     },
+     "bedrooms": 1,
+     "areaM2": 25,
+     "title": "Kitnet / Stúdio"
+    },
+    {
+     "id": "16886692",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Barão Geraldo"
+     },
+     "bedrooms": 1,
+     "areaM2": 25,
+     "title": "Kitnet / Stúdio"
+    },
+    {
+     "id": "47774369",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Cidade Universitária"
+     },
+     "bedrooms": 1,
+     "areaM2": 20,
+     "title": "Suítes para Locação Cidade Universitária Campinas/SP"
+    },
+    {
+     "id": "47774629",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Cidade Universitária"
+     },
+     "bedrooms": 1,
+     "areaM2": 20,
+     "title": "Suítes para Locação Cidade Universitária Campinas/SP"
+    },
+    {
+     "id": "9459371",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Vila Santa Isabel"
+     },
+     "bedrooms": 1,
+     "areaM2": 22,
+     "title": "Kitnet / Stúdio"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Barão Geraldo",
+    "minPrice": 1450,
+    "maxPrice": 1450
+   },
+   "page": 1,
+   "pagination": {
+    "page": 1,
+    "pageSize": 15,
+    "totalResults": 2,
+    "totalPages": 1
+   },
+   "hits": [
+    {
+     "id": "16886692",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Barão Geraldo"
+     },
+     "bedrooms": 1,
+     "areaM2": 25,
+     "title": "Kitnet / Stúdio"
+    },
+    {
+     "id": "19807930",
+     "priceBRL": 1450,
+     "propertyType": "Kitnet / Stúdio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Barão Geraldo"
+     },
+     "bedrooms": 1,
+     "areaM2": 25,
+     "title": "Kitnet / Stúdio"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 1,
+   "pagination": {
+    "page": 1,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "37970723",
+     "priceBRL": 4000,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Belvedere"
+     },
+     "bedrooms": null,
+     "areaM2": 2690,
+     "title": "Terreno, 2690 m² - venda por R$ 795.000,00 ou aluguel por R$ 5.699,00/mês - Chácara Belvedere - Campinas/SP"
+    },
+    {
+     "id": "36046307",
+     "priceBRL": 10000,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Belvedere"
+     },
+     "bedrooms": null,
+     "areaM2": 3600,
+     "title": "Terreno, 3600 m² - venda por R$ 1.700.000,00 ou aluguel por R$ 10.000,00/mês - Chácara Belvedere - Campinas/SP"
+    },
+    {
+     "id": "44369805",
+     "priceBRL": 11260,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Belvedere"
+     },
+     "bedrooms": 3,
+     "areaM2": 230,
+     "title": "Casa com 3 dormitórios, 230 m² - venda por R$ 2.300.000,00 ou aluguel por R$ 11.706,76/mês - Chácara Belvedere - Campinas/SP"
+    },
+    {
+     "id": "36046403",
+     "priceBRL": 12000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Belvedere"
+     },
+     "bedrooms": 6,
+     "areaM2": 4000,
+     "title": "Casa com 6 dormitórios para alugar por R$ 13.000,00/mês - Chácara Belvedere - Campinas/SP"
+    },
+    {
+     "id": "36478942",
+     "priceBRL": 1700,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Belvedere"
+     },
+     "bedrooms": null,
+     "areaM2": 42,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "16950223",
+     "priceBRL": 10000,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Belvedere"
+     },
+     "bedrooms": null,
+     "areaM2": null,
+     "title": "Terreno comercial"
+    },
+    {
+     "id": "40068248",
+     "priceBRL": 11000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Belvedere"
+     },
+     "bedrooms": null,
+     "areaM2": null,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "40003695",
+     "priceBRL": 4000,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Belvedere"
+     },
+     "bedrooms": null,
+     "areaM2": 2690,
+     "title": "Terreno, 2690 m² - venda por R$ 795.000,00 ou aluguel por R$ 5.699,00/mês - Chácara Belvedere - Campinas/SP"
+    },
+    {
+     "id": "38051895",
+     "priceBRL": 8000,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Belvedere"
+     },
+     "bedrooms": null,
+     "areaM2": null,
+     "title": "Terreno comercial"
+    },
+    {
+     "id": "16199833",
+     "priceBRL": 1800,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Belvedere"
+     },
+     "bedrooms": 1,
+     "areaM2": 40,
+     "title": "Casa"
+    },
+    {
+     "id": "42283589",
+     "priceBRL": 6950,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 105,
+     "title": "Casa com 3 dormitórios, 105 m² - venda por R$ 990.000,00 ou aluguel por R$ 7.165,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "43950172",
+     "priceBRL": 13900,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 357.53,
+     "title": "Casa para locação | chácarra primavera | campinas - sp"
+    },
+    {
+     "id": "42089521",
+     "priceBRL": 22000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 504,
+     "title": "Casa à venda e para alugar em Campinas, Chácara Primavera, com 4 suítes, com 504 m²"
+    },
+    {
+     "id": "36771159",
+     "priceBRL": 3550,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 80,
+     "title": "Alugue Apartamento 3 Dorms na Chácara Primavera Campinas 80m²"
+    },
+    {
+     "id": "48002804",
+     "priceBRL": 5060,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 2,
+     "areaM2": 67,
+     "title": "Apartamento para alugar em Chácara Primavera de 67.00m² com 2 Quartos e 1 Suite"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 2,
+   "pagination": {
+    "page": 2,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "45711792",
+     "priceBRL": 18000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 521.15,
+     "title": "Casa para alugar, 521 m²  - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "45140773",
+     "priceBRL": 4270,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Loja para alugar, 38 m² - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "44254742",
+     "priceBRL": 4070,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38,
+     "title": "Sala para aluguel, Chácara Primavera - CAMPINAS/SP"
+    },
+    {
+     "id": "29256786",
+     "priceBRL": 18800,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 362,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "30263419",
+     "priceBRL": 18800,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 362,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "35424789",
+     "priceBRL": 13900,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 357.53,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "20062458",
+     "priceBRL": 16000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 460,
+     "title": "Casa"
+    },
+    {
+     "id": "46956707",
+     "priceBRL": 11599,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 136,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46068221",
+     "priceBRL": 10650,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 208.14,
+     "title": "Casa para alugar | chácara primavera | campinas"
+    },
+    {
+     "id": "46821835",
+     "priceBRL": 7210,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 112,
+     "title": "Apartamento"
+    },
+    {
+     "id": "38832397",
+     "priceBRL": 13900,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 353.53,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "46213323",
+     "priceBRL": 3000,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 33,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "46299797",
+     "priceBRL": 10750,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "32448125",
+     "priceBRL": 17000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 510,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "46936059",
+     "priceBRL": 6907,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 184,
+     "title": "Apartamento para alugar com 184m², 3 quartos e 4 vagas"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 3,
+   "pagination": {
+    "page": 3,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "47772894",
+     "priceBRL": 4070,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38,
+     "title": "Lojas Comerciais com 38m2 para Locação na Chácara Primavera em Campinas."
+    },
+    {
+     "id": "46936329",
+     "priceBRL": 8400,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa de Alto Padrão para Locação em Condomínio Fechado - Campinas/SP"
+    },
+    {
+     "id": "47697392",
+     "priceBRL": 17000.01,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 510,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "48092190",
+     "priceBRL": 4040,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 70,
+     "title": "Apartamento com 3 quartos para loacação, 70 m² por R$ 3.200,00 - Mansões Santo Antônio/ Chácara Pr"
+    },
+    {
+     "id": "46299781",
+     "priceBRL": 10750,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "24490112",
+     "priceBRL": 25000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 504,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "43562198",
+     "priceBRL": 7110,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 105,
+     "title": "Apartamento"
+    },
+    {
+     "id": "46080520",
+     "priceBRL": 4650,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 74,
+     "title": "Apartamento"
+    },
+    {
+     "id": "46974154",
+     "priceBRL": 17000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 437,
+     "title": "Linda casa com 5 quartos na Chácara Primavera"
+    },
+    {
+     "id": "36048824",
+     "priceBRL": 18520,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 800,
+     "title": "Casa com 5 dormitórios, 800 m² - venda por R$ 3.400.000,00 ou aluguel por R$ 20.070,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "48109301",
+     "priceBRL": 10350,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 208,
+     "title": "Casa para alugar em Chácara Primavera de 208.00m² com 3 Quartos, 3 Suites e 2 Garagens"
+    },
+    {
+     "id": "42090027",
+     "priceBRL": 13900,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 357,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 4 quartos, com 357 m²"
+    },
+    {
+     "id": "36044205",
+     "priceBRL": 1200,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 9,
+     "title": "Sala para alugar, 9 m² por R$ 1.200,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "43647596",
+     "priceBRL": 4320,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Sala para alugar, 38 m² por R$ 4.390,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "46196807",
+     "priceBRL": 8700,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa de Condomínio para Locação | 168 m² | 3 Suítes | Rooftop com Jacuzzi - Chacará Primavera"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 4,
+   "pagination": {
+    "page": 4,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "36044951",
+     "priceBRL": 1200,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 15,
+     "title": "Sala para alugar, 15 m² por R$ 1.200,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "45006410",
+     "priceBRL": 4070,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "30565736",
+     "priceBRL": 3300,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 40,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "38886814",
+     "priceBRL": 18000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 521,
+     "title": "Casa para aluguel em Chácara Primavera, Campinas - SP | Cód 57167"
+    },
+    {
+     "id": "46299781",
+     "priceBRL": 10750,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "24490112",
+     "priceBRL": 25000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 504,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "35926900",
+     "priceBRL": 13900,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 358,
+     "title": "Casa"
+    },
+    {
+     "id": "43562198",
+     "priceBRL": 7110,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 105,
+     "title": "Apartamento"
+    },
+    {
+     "id": "37709672",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "40106370",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46068215",
+     "priceBRL": 10650,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 208.14,
+     "title": "Casa para alugar | chácara primavera | campinas"
+    },
+    {
+     "id": "46068226",
+     "priceBRL": 10650,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 208.14,
+     "title": "Casa para venda ou locação | chácara primavera | campinas"
+    },
+    {
+     "id": "47320064",
+     "priceBRL": 10900,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 105,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "28794930",
+     "priceBRL": 15000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 6,
+     "areaM2": 290,
+     "title": "Casa"
+    },
+    {
+     "id": "47697392",
+     "priceBRL": 17000.01,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 510,
+     "title": "Casa comercial"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 5,
+   "pagination": {
+    "page": 5,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "48092190",
+     "priceBRL": 4040,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 70,
+     "title": "Apartamento com 3 quartos para loacação, 70 m² por R$ 3.200,00 - Mansões Santo Antônio/ Chácara Pr"
+    },
+    {
+     "id": "46936329",
+     "priceBRL": 8400,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa de Alto Padrão para Locação em Condomínio Fechado - Campinas/SP"
+    },
+    {
+     "id": "46987475",
+     "priceBRL": 13000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 438.2,
+     "title": "Casa"
+    },
+    {
+     "id": "38889415",
+     "priceBRL": 9600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "39775588",
+     "priceBRL": 10400,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "47772894",
+     "priceBRL": 4070,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38,
+     "title": "Lojas Comerciais com 38m2 para Locação na Chácara Primavera em Campinas."
+    },
+    {
+     "id": "46080520",
+     "priceBRL": 4650,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 74,
+     "title": "Apartamento"
+    },
+    {
+     "id": "46974154",
+     "priceBRL": 17000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 437,
+     "title": "Linda casa com 5 quartos na Chácara Primavera"
+    },
+    {
+     "id": "45185880",
+     "priceBRL": 16000.01,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 515,
+     "title": "Casa com 5 dormitórios para alugar, 320 m² - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "45675677",
+     "priceBRL": 4270,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Loja para alugar, 38 m²  - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "46842649",
+     "priceBRL": 14000,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 181,
+     "title": "Salão para alugar, 181 m² por R$ 14.713,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "44254741",
+     "priceBRL": 4070,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38,
+     "title": "Sala para aluguel, Chácara Primavera - CAMPINAS/SP"
+    },
+    {
+     "id": "47115600",
+     "priceBRL": 5150,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 85,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "21773514",
+     "priceBRL": 16500,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 460,
+     "title": "Casa"
+    },
+    {
+     "id": "8307499",
+     "priceBRL": 18570,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 6,
+     "areaM2": 504.38,
+     "title": "Casa"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 6,
+   "pagination": {
+    "page": 6,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "47320065",
+     "priceBRL": 8000,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "16335781",
+     "priceBRL": 16200,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 460,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "35351882",
+     "priceBRL": 3265.78,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "35424336",
+     "priceBRL": 8700,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "38889420",
+     "priceBRL": 10600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "43134284",
+     "priceBRL": 21000,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 17,
+     "areaM2": 519.79,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "47748332",
+     "priceBRL": 4700,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 70,
+     "title": "Apartamento"
+    },
+    {
+     "id": "46068217",
+     "priceBRL": 10650,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 208.14,
+     "title": "Casa para alugar | chácara primavera | campinas"
+    },
+    {
+     "id": "23449417",
+     "priceBRL": 25000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 504,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "46299791",
+     "priceBRL": 10750,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46299789",
+     "priceBRL": 10750,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46299801",
+     "priceBRL": 10750,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "45201628",
+     "priceBRL": 7500,
+     "propertyType": "Cobertura",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 184,
+     "title": "Cobertura"
+    },
+    {
+     "id": "47074776",
+     "priceBRL": 7400,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 280,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "38413107",
+     "priceBRL": 7900,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casas novas com 3 suítes e rooftop privativo em mansões santo antônio – campinas"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 7,
+   "pagination": {
+    "page": 7,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "29842809",
+     "priceBRL": 25000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 504,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "44098183",
+     "priceBRL": 25000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 519,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "47697422",
+     "priceBRL": 8600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "47774272",
+     "priceBRL": 4070,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38,
+     "title": "Lojas Comerciais com 38m2 para Locação na Chácara Primavera em Campinas."
+    },
+    {
+     "id": "46781041",
+     "priceBRL": 5000,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 74,
+     "title": "Apartamento"
+    },
+    {
+     "id": "44362750",
+     "priceBRL": 10552,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 115,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 3 suítes, com 115 m²"
+    },
+    {
+     "id": "48457139",
+     "priceBRL": 23000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 500,
+     "title": "-"
+    },
+    {
+     "id": "41952186",
+     "priceBRL": 18000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 500,
+     "title": "Casa"
+    },
+    {
+     "id": "47219838",
+     "priceBRL": 4230,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 74,
+     "title": "Apartamento"
+    },
+    {
+     "id": "45839270",
+     "priceBRL": 4330,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 74,
+     "title": "Apartamento à venda e para alugar em Campinas, Chácara Primavera, com 3 quartos, com 74 m²"
+    },
+    {
+     "id": "46081534",
+     "priceBRL": 4700,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 74,
+     "title": "Apartamento para locação, 74m² -Residencial Aquarelle - Chácara Primavera, Campinas"
+    },
+    {
+     "id": "47934229",
+     "priceBRL": 6168,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 105,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 3 suítes, com 105 m², Vila Cristal"
+    },
+    {
+     "id": "35993087",
+     "priceBRL": 6670,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 118,
+     "title": "Casa com 3 dormitórios, 118 m² - venda por R$ 1.100.000,00 ou aluguel por R$ 6.887,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "46561679",
+     "priceBRL": 4012.01,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 102,
+     "title": "Sobrado com 3 Quartos para alugar, 102 m²  - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "45675681",
+     "priceBRL": 16000.01,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 515,
+     "title": "Casa com 5 dormitórios para alugar, 320 m² - Chácara Primavera - Campinas/SP"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 8,
+   "pagination": {
+    "page": 8,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "44887446",
+     "priceBRL": 5660,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 95,
+     "title": "Casa com 3 dormitórios, 95 m² - venda por R$ 850.000,00 ou aluguel por R$ 5.760,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "42093279",
+     "priceBRL": 9400,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa à venda e para alugar em Campinas, Chácara Primavera, com 3 suítes, com 168 m², Mhouses 877"
+    },
+    {
+     "id": "44330674",
+     "priceBRL": 3800,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Sala comercial para locação no bairro Chácara Primavera em Campinas - SP"
+    },
+    {
+     "id": "37471638",
+     "priceBRL": 3000,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 35,
+     "title": "Sala para alugar, 35 m² por R$ 3.000,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "44330678",
+     "priceBRL": 3800,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Sala comercial para locação no bairro Chácara Primavera em Campinas - SP"
+    },
+    {
+     "id": "45140772",
+     "priceBRL": 4270,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Loja para alugar, 38 m²  - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "45675678",
+     "priceBRL": 4270,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Loja para alugar, 38 m² - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "45337123",
+     "priceBRL": 13900,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 357,
+     "title": "Casa"
+    },
+    {
+     "id": "38292088",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "37753045",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "40106368",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "40106376",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46970065",
+     "priceBRL": 17000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 437,
+     "title": "Linda casa com 5 quartos na Chácara Primavera"
+    },
+    {
+     "id": "47696794",
+     "priceBRL": 7110,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 105,
+     "title": "Apartamento"
+    },
+    {
+     "id": "38889411",
+     "priceBRL": 9600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 9,
+   "pagination": {
+    "page": 9,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "35424336",
+     "priceBRL": 8700,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "38889420",
+     "priceBRL": 10600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "43134284",
+     "priceBRL": 21000,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 17,
+     "areaM2": 519.79,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "47748332",
+     "priceBRL": 4700,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 70,
+     "title": "Apartamento"
+    },
+    {
+     "id": "46068217",
+     "priceBRL": 10650,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 208.14,
+     "title": "Casa para alugar | chácara primavera | campinas"
+    },
+    {
+     "id": "23449417",
+     "priceBRL": 25000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 504,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "46299791",
+     "priceBRL": 10750,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46299789",
+     "priceBRL": 10750,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46299801",
+     "priceBRL": 10750,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "45201628",
+     "priceBRL": 7500,
+     "propertyType": "Cobertura",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 184,
+     "title": "Cobertura"
+    },
+    {
+     "id": "47074776",
+     "priceBRL": 7400,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 280,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "38413107",
+     "priceBRL": 7900,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casas novas com 3 suítes e rooftop privativo em mansões santo antônio – campinas"
+    },
+    {
+     "id": "29842809",
+     "priceBRL": 25000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 504,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "44098183",
+     "priceBRL": 25000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 519,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "47697422",
+     "priceBRL": 8600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa em condomínio fechado"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 10,
+   "pagination": {
+    "page": 10,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "46286246",
+     "priceBRL": 4700,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 74,
+     "title": "Apartamento para alugar em Campinas, Chácara Primavera, com 3 quartos, com 74 m², Aquarelle"
+    },
+    {
+     "id": "35993087",
+     "priceBRL": 6670,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 118,
+     "title": "Casa com 3 dormitórios, 118 m² - venda por R$ 1.100.000,00 ou aluguel por R$ 6.887,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "46561679",
+     "priceBRL": 4012.01,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 102,
+     "title": "Sobrado com 3 Quartos para alugar, 102 m²  - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "45675681",
+     "priceBRL": 16000.01,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 515,
+     "title": "Casa com 5 dormitórios para alugar, 320 m² - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "46284057",
+     "priceBRL": 18000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 521,
+     "title": "Casa para alugar no bairro Chácara Primavera em Campinas - SP"
+    },
+    {
+     "id": "42088809",
+     "priceBRL": 13900,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 357,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 4 quartos, com 357 m²"
+    },
+    {
+     "id": "44887446",
+     "priceBRL": 5660,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 95,
+     "title": "Casa com 3 dormitórios, 95 m² - venda por R$ 850.000,00 ou aluguel por R$ 5.760,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "42093279",
+     "priceBRL": 9400,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa à venda e para alugar em Campinas, Chácara Primavera, com 3 suítes, com 168 m², Mhouses 877"
+    },
+    {
+     "id": "48324387",
+     "priceBRL": 13000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 438.2,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 5 quartos, com 438.2 m²"
+    },
+    {
+     "id": "45140772",
+     "priceBRL": 4270,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Loja para alugar, 38 m²  - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "45675678",
+     "priceBRL": 4270,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Loja para alugar, 38 m² - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "44330674",
+     "priceBRL": 3800,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Sala comercial para locação no bairro Chácara Primavera em Campinas - SP"
+    },
+    {
+     "id": "37471638",
+     "priceBRL": 3000,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 35,
+     "title": "Sala para alugar, 35 m² por R$ 3.000,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "44330678",
+     "priceBRL": 3800,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Sala comercial para locação no bairro Chácara Primavera em Campinas - SP"
+    },
+    {
+     "id": "38889411",
+     "priceBRL": 9600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 11,
+   "pagination": {
+    "page": 11,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "46970065",
+     "priceBRL": 17000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 437,
+     "title": "Linda casa com 5 quartos na Chácara Primavera"
+    },
+    {
+     "id": "36226425",
+     "priceBRL": 3000,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 33,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "45205300",
+     "priceBRL": 7500,
+     "propertyType": "Cobertura",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 184,
+     "title": "Cobertura"
+    },
+    {
+     "id": "47071876",
+     "priceBRL": 7400,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 280,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "45337123",
+     "priceBRL": 13900,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 357,
+     "title": "Casa"
+    },
+    {
+     "id": "38292088",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "37753045",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "40106368",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "40106376",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46299795",
+     "priceBRL": 10750,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46299793",
+     "priceBRL": 10750,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "34697251",
+     "priceBRL": 15000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 290,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "35356621",
+     "priceBRL": 8200,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "44890144",
+     "priceBRL": 21000,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 519.79,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "47696794",
+     "priceBRL": 7110,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 105,
+     "title": "Apartamento"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 12,
+   "pagination": {
+    "page": 12,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "47697422",
+     "priceBRL": 8600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "47774272",
+     "priceBRL": 4070,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38,
+     "title": "Lojas Comerciais com 38m2 para Locação na Chácara Primavera em Campinas."
+    },
+    {
+     "id": "46781041",
+     "priceBRL": 5000,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 74,
+     "title": "Apartamento"
+    },
+    {
+     "id": "44362750",
+     "priceBRL": 10552,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 115,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 3 suítes, com 115 m²"
+    },
+    {
+     "id": "48457139",
+     "priceBRL": 23000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 500,
+     "title": "-"
+    },
+    {
+     "id": "41952186",
+     "priceBRL": 18000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 500,
+     "title": "Casa"
+    },
+    {
+     "id": "47219838",
+     "priceBRL": 4230,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 74,
+     "title": "Apartamento"
+    },
+    {
+     "id": "45839270",
+     "priceBRL": 4330,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 74,
+     "title": "Apartamento à venda e para alugar em Campinas, Chácara Primavera, com 3 quartos, com 74 m²"
+    },
+    {
+     "id": "46081534",
+     "priceBRL": 4700,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 74,
+     "title": "Apartamento para locação, 74m² -Residencial Aquarelle - Chácara Primavera, Campinas"
+    },
+    {
+     "id": "47934229",
+     "priceBRL": 6168,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 105,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 3 suítes, com 105 m², Vila Cristal"
+    },
+    {
+     "id": "26706364",
+     "priceBRL": 30000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 430,
+     "title": "Casa à venda e para alugar em Campinas, Chácara Primavera, com 4 quartos, com 430 m²"
+    },
+    {
+     "id": "35639052",
+     "priceBRL": 25000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 504,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 4 quartos, com 504 m²"
+    },
+    {
+     "id": "45324821",
+     "priceBRL": 4000,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Sala comercial no mansões santo antônio"
+    },
+    {
+     "id": "36044953",
+     "priceBRL": 1500,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 20,
+     "title": "Sala para alugar, 20 m² por R$ 1.500,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "42093014",
+     "priceBRL": 15000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 460,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 4 quartos, com 460 m²"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 13,
+   "pagination": {
+    "page": 13,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "47013284",
+     "priceBRL": 19500,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 516,
+     "title": "Casa para aluguel, 4 quartos, 2 suítes, 8 vagas, Chácara Primavera - CAMPINAS/SP"
+    },
+    {
+     "id": "48109303",
+     "priceBRL": 10350,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 208,
+     "title": "Casa para venda e aluguel em Taquaral de 208.00m² com 3 Quartos, 3 Suites e 2 Garagens"
+    },
+    {
+     "id": "44968214",
+     "priceBRL": 4070,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "46414314",
+     "priceBRL": 18000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 521,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "48092341",
+     "priceBRL": 4910,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 95,
+     "title": "Casa em condomínio para venda, Chácara Primavera, Campinas, SP"
+    },
+    {
+     "id": "47697389",
+     "priceBRL": 25000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 504,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "47697393",
+     "priceBRL": 15000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 522,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "47697394",
+     "priceBRL": 13900,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 358,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "47697400",
+     "priceBRL": 7800,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "47697397",
+     "priceBRL": 16000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 515,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "47366016",
+     "priceBRL": 4162.24,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 75,
+     "title": "Apartamento"
+    },
+    {
+     "id": "38889417",
+     "priceBRL": 9600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46068216",
+     "priceBRL": 10650,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 208.14,
+     "title": "Casa para alugar | chácara primavera | campinas"
+    },
+    {
+     "id": "40106374",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46937383",
+     "priceBRL": 14000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 460,
+     "title": "Imóveis para alugar com Piscina e 4 quartos, 460 m² - Mansões Santo Antônio"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 14,
+   "pagination": {
+    "page": 14,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "47339385",
+     "priceBRL": 6200,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 107,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 3 quartos, com 107 m², Caminho das Hortências I"
+    },
+    {
+     "id": "35993087",
+     "priceBRL": 6670,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 118,
+     "title": "Casa com 3 dormitórios, 118 m² - venda por R$ 1.100.000,00 ou aluguel por R$ 6.887,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "46561679",
+     "priceBRL": 4012.01,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 102,
+     "title": "Sobrado com 3 Quartos para alugar, 102 m²  - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "45675681",
+     "priceBRL": 16000.01,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 515,
+     "title": "Casa com 5 dormitórios para alugar, 320 m² - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "46284057",
+     "priceBRL": 18000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 521,
+     "title": "Casa para alugar no bairro Chácara Primavera em Campinas - SP"
+    },
+    {
+     "id": "42088809",
+     "priceBRL": 13900,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 357,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 4 quartos, com 357 m²"
+    },
+    {
+     "id": "44887446",
+     "priceBRL": 5660,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 95,
+     "title": "Casa com 3 dormitórios, 95 m² - venda por R$ 850.000,00 ou aluguel por R$ 5.760,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "42093279",
+     "priceBRL": 9400,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa à venda e para alugar em Campinas, Chácara Primavera, com 3 suítes, com 168 m², Mhouses 877"
+    },
+    {
+     "id": "48324387",
+     "priceBRL": 13000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 438.2,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 5 quartos, com 438.2 m²"
+    },
+    {
+     "id": "45140772",
+     "priceBRL": 4270,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Loja para alugar, 38 m²  - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "45675678",
+     "priceBRL": 4270,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Loja para alugar, 38 m² - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "44330674",
+     "priceBRL": 3800,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Sala comercial para locação no bairro Chácara Primavera em Campinas - SP"
+    },
+    {
+     "id": "37471638",
+     "priceBRL": 3000,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 35,
+     "title": "Sala para alugar, 35 m² por R$ 3.000,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "44330678",
+     "priceBRL": 3800,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Sala comercial para locação no bairro Chácara Primavera em Campinas - SP"
+    },
+    {
+     "id": "38889411",
+     "priceBRL": 9600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 15,
+   "pagination": {
+    "page": 15,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "42090027",
+     "priceBRL": 13900,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 357,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 4 quartos, com 357 m²"
+    },
+    {
+     "id": "29387427",
+     "priceBRL": 4500,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 2,
+     "areaM2": 70,
+     "title": "Apartamento com 2 dormitórios para alugar - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "45711945",
+     "priceBRL": 18000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 521.15,
+     "title": "Casa para alugar, 521 m²  - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "22196323",
+     "priceBRL": 9000.01,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 1768,
+     "title": "Terreno para alugar em Campinas, Chácara Primavera, com 1768 m²"
+    },
+    {
+     "id": "36044205",
+     "priceBRL": 1200,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 9,
+     "title": "Sala para alugar, 9 m² por R$ 1.200,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "43647596",
+     "priceBRL": 4320,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38.5,
+     "title": "Sala para alugar, 38 m² por R$ 4.390,00/mês - Chácara Primavera - Campinas/SP"
+    },
+    {
+     "id": "44350704",
+     "priceBRL": 4120,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38,
+     "title": "Sala para aluguel em Chácara Primavera, Campinas - SP | Cód 59561"
+    },
+    {
+     "id": "38889414",
+     "priceBRL": 9600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "42775394",
+     "priceBRL": 15000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 5,
+     "areaM2": 278.93,
+     "title": "Casa"
+    },
+    {
+     "id": "46895325",
+     "priceBRL": 8000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 315.3,
+     "title": "Casa"
+    },
+    {
+     "id": "48368619",
+     "priceBRL": 4397.11,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 90,
+     "title": "Apartamento"
+    },
+    {
+     "id": "40106366",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "40106372",
+     "priceBRL": 10500.01,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "44580791",
+     "priceBRL": 8301,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 168,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "48003230",
+     "priceBRL": 4170,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 38,
+     "title": "Sala comercial"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 16,
+   "pagination": {
+    "page": 16,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "38889418",
+     "priceBRL": 9600,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 145,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "46068222",
+     "priceBRL": 10650,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 208.14,
+     "title": "Casa para alugar | chácara primavera | campinas"
+    },
+    {
+     "id": "46068218",
+     "priceBRL": 10650,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 208.14,
+     "title": "Casa para alugar | chácara primavera | campinas"
+    },
+    {
+     "id": "36224613",
+     "priceBRL": 3000,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": 33,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "46821178",
+     "priceBRL": 5100,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 72,
+     "title": "Apartamento"
+    },
+    {
+     "id": "29842811",
+     "priceBRL": 3500,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": null,
+     "areaM2": null,
+     "title": "Terreno comercial"
+    },
+    {
+     "id": "42094975",
+     "priceBRL": 15000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 4,
+     "areaM2": 460,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 4 quartos, com 460 m²"
+    },
+    {
+     "id": "40975665",
+     "priceBRL": 8650,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 200,
+     "title": "Ótima casa em condomínio para alugar no Chácara Primavera com 3 suítes e rooftop pronta pra morar"
+    },
+    {
+     "id": "47167287",
+     "priceBRL": 6368,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 105,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 3 suítes, com 105 m², Vila Cristal"
+    },
+    {
+     "id": "47339385",
+     "priceBRL": 6200,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 107,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 3 quartos, com 107 m², Caminho das Hortências I"
+    },
+    {
+     "id": "47488007",
+     "priceBRL": 6326,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 83,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "44522044",
+     "priceBRL": 7150,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 118,
+     "title": "Apartamento para alugar em Campinas, Chácara Primavera, com 3 quartos, com 118 m², Andrea Palladio"
+    },
+    {
+     "id": "46979030",
+     "priceBRL": 11800,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Primavera"
+     },
+     "bedrooms": 3,
+     "areaM2": 136,
+     "title": "Casa para alugar em Campinas, Chácara Primavera, com 3 quartos, com 136 m²"
+    },
+    {
+     "id": "42271192",
+     "priceBRL": 4500,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 204,
+     "title": "Ponto para alugar em Campinas, Chácara da Barra, com 204 m²"
+    },
+    {
+     "id": "44459950",
+     "priceBRL": 8500,
+     "propertyType": "Sítio / Chácara",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Santa Margarida"
+     },
+     "bedrooms": 4,
+     "areaM2": 800,
+     "title": "Chácara com 4 dormitórios, 10000 m² - venda por R$ 4.990.000,00 ou aluguel por R$ 8.500,00/mês - Chácara Santa Margarida - Campinas/SP"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 17,
+   "pagination": {
+    "page": 17,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "44692706",
+     "priceBRL": 14365,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Loteamento Chácara Prado"
+     },
+     "bedrooms": 3,
+     "areaM2": 322.39,
+     "title": "Casa de alto padrão à venda e locação – parque prado | campinas/sp"
+    },
+    {
+     "id": "47418901",
+     "priceBRL": 4400,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 160,
+     "title": "Casa Comercial para Alugar no bairro Chacara da Barrra em Campinas"
+    },
+    {
+     "id": "33273571",
+     "priceBRL": 4500,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 3,
+     "areaM2": 149.9,
+     "title": "Casa para venda e locação | chacara da barra | campinas - sp"
+    },
+    {
+     "id": "48275555",
+     "priceBRL": 6000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 3,
+     "areaM2": 329.85,
+     "title": "Casa para alugar no bairro Chácara da Barra em Campinas - SP"
+    },
+    {
+     "id": "45675856",
+     "priceBRL": 12900,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 263.51,
+     "title": "Salão 263,51 m², para locação, região do shopping iguatemi, campinas, sp."
+    },
+    {
+     "id": "46842915",
+     "priceBRL": 2425.95,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 37,
+     "title": "Sala para alugar, 37 m² por R$ 1.800,00/mês - Chácara da Barra - Campinas/SP"
+    },
+    {
+     "id": "45625245",
+     "priceBRL": 12900,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 263.51,
+     "title": "Salão 263,51 m², para locação, região do shopping iguatemi, campinas, sp."
+    },
+    {
+     "id": "43647280",
+     "priceBRL": 12900,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 263.51,
+     "title": "Salão comercial para locação na avenida jesuino marcondes machado, na chacara da barra, em campinas/sp"
+    },
+    {
+     "id": "37970883",
+     "priceBRL": 15000,
+     "propertyType": "Prédio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 340,
+     "title": "Prédio para alugar com 340 m² no bairro chácara da barra - campinas/sp"
+    },
+    {
+     "id": "44702335",
+     "priceBRL": 6800,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Santa Letícia"
+     },
+     "bedrooms": null,
+     "areaM2": 250,
+     "title": "Sala Comercial para Locação em Campinas, Chácara Santa Letícia, 3 banheiros"
+    },
+    {
+     "id": "48051211",
+     "priceBRL": 3314,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Bela Vista"
+     },
+     "bedrooms": 2,
+     "areaM2": 48,
+     "title": "Apartamento para Aluguel - Chácara Bela Vista, 2 Quartos,  48 m² - Campinas"
+    },
+    {
+     "id": "47206563",
+     "priceBRL": 2810,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Bela Vista"
+     },
+     "bedrooms": 2,
+     "areaM2": 45,
+     "title": "Apartamento para Aluguel - Chácara Bela Vista, 2 Quartos,  45 m² - Campinas"
+    },
+    {
+     "id": "43334816",
+     "priceBRL": 10850,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Loteamento Chácara Prado"
+     },
+     "bedrooms": 3,
+     "areaM2": 300,
+     "title": "Casa com 3 suítes para Venda e Locação no Parque Prado - Façanha Imóveis Campinas"
+    },
+    {
+     "id": "42863728",
+     "priceBRL": 8968.02,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Loteamento Chácara Prado"
+     },
+     "bedrooms": 4,
+     "areaM2": 290,
+     "title": "Casa em Condomínio fechado para Venda no Parque Prado - Façanha Imóveis Campinas"
+    },
+    {
+     "id": "36044568",
+     "priceBRL": 3500,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Santa Margarida"
+     },
+     "bedrooms": null,
+     "areaM2": 100,
+     "title": "Loja para alugar, 100 m² por R$ 3.500,00/mês - Chácara Santa Margarida - Campinas/SP"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 18,
+   "pagination": {
+    "page": 18,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "30728610",
+     "priceBRL": 6000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 4,
+     "areaM2": 280.27,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "47116660",
+     "priceBRL": 6000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 3,
+     "areaM2": 329,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "47186171",
+     "priceBRL": 5500,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 4,
+     "areaM2": 154.8,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "20062708",
+     "priceBRL": 43710,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 379,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "42775398",
+     "priceBRL": 7000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 3,
+     "areaM2": 217.5,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "30405612",
+     "priceBRL": 12000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 1,
+     "areaM2": 250,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "35787512",
+     "priceBRL": 8500,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 4,
+     "areaM2": 213,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "43476000",
+     "priceBRL": 5500,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 4,
+     "areaM2": 213,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "47920259",
+     "priceBRL": 2450,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Santa Margarida"
+     },
+     "bedrooms": 1,
+     "areaM2": 50,
+     "title": "Apartamento"
+    },
+    {
+     "id": "40314420",
+     "priceBRL": 4700,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 2,
+     "areaM2": 100,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "45282262",
+     "priceBRL": 5000,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Santa Margarida"
+     },
+     "bedrooms": null,
+     "areaM2": 47400,
+     "title": "Terreno comercial"
+    },
+    {
+     "id": "47298330",
+     "priceBRL": 8000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 4,
+     "areaM2": 325.5,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "46813533",
+     "priceBRL": 12000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 3,
+     "areaM2": 545,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "32815132",
+     "priceBRL": 10000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 7,
+     "areaM2": 262,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "42531072",
+     "priceBRL": 15000,
+     "propertyType": "Galpão / Depósito",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 580,
+     "title": "Barracão / Galpão / Depósito"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 19,
+   "pagination": {
+    "page": 19,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "48231931",
+     "priceBRL": 1700,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": null,
+     "title": "Terreno comercial"
+    },
+    {
+     "id": "40314420",
+     "priceBRL": 4700,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 2,
+     "areaM2": 100,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "45282262",
+     "priceBRL": 5000,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Santa Margarida"
+     },
+     "bedrooms": null,
+     "areaM2": 47400,
+     "title": "Terreno comercial"
+    },
+    {
+     "id": "36856348",
+     "priceBRL": 12000,
+     "propertyType": "Prédio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 349,
+     "title": "Prédio"
+    },
+    {
+     "id": "46937606",
+     "priceBRL": 12000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 3,
+     "areaM2": 300,
+     "title": "Casa para alugar na Rua Helena Steimberg, 963, Nova Campinas, Campinas"
+    },
+    {
+     "id": "43281145",
+     "priceBRL": 15281,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 135,
+     "title": "Sala para alugar em Campinas, Cambuí, com 135.81 m², Mazal Tower"
+    },
+    {
+     "id": "29171321",
+     "priceBRL": 12000,
+     "propertyType": "Galpão / Depósito",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 541,
+     "title": "Barracão para locação no Chácara da Barra, Campinas"
+    },
+    {
+     "id": "44726779",
+     "priceBRL": 14000,
+     "propertyType": "Prédio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 440,
+     "title": "Prédio para alugar em Campinas, Chácara da Barra, com 440 m²"
+    },
+    {
+     "id": "47298330",
+     "priceBRL": 8000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 4,
+     "areaM2": 325.5,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "46938125",
+     "priceBRL": 11450,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Loteamento Chácara Prado"
+     },
+     "bedrooms": 4,
+     "areaM2": 600,
+     "title": "Casa de condomínio para alugar com 600m², 4 quartos e 5 vagas"
+    },
+    {
+     "id": "46938498",
+     "priceBRL": 6000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 3,
+     "areaM2": 330,
+     "title": "Sobrado amplo para locação na Chácara da Barra | 330 m² | 3 dormitórios | Edícula completa | 4 vagas"
+    },
+    {
+     "id": "22641196",
+     "priceBRL": 16000,
+     "propertyType": "Prédio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 450,
+     "title": "Prédio"
+    },
+    {
+     "id": "46903712",
+     "priceBRL": 12900,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 263.51,
+     "title": "Sala comercial"
+    },
+    {
+     "id": "47920259",
+     "priceBRL": 2450,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Santa Margarida"
+     },
+     "bedrooms": 1,
+     "areaM2": 50,
+     "title": "Apartamento"
+    },
+    {
+     "id": "43476000",
+     "priceBRL": 5500,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 4,
+     "areaM2": 213,
+     "title": "Casa comercial"
+    }
+   ]
+  },
+  {
+   "filters": {
+    "transaction": "aluguel",
+    "city": "Campinas",
+    "state": "SP",
+    "neighborhood": "Chácara Belvedere"
+   },
+   "page": 20,
+   "pagination": {
+    "page": 20,
+    "pageSize": 15,
+    "totalResults": 558,
+    "totalPages": 38
+   },
+   "hits": [
+    {
+     "id": "46619483",
+     "priceBRL": 3700,
+     "propertyType": "Loja / Comércio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 60,
+     "title": "Salão Comercial na Av. Mogi -Guaçu - Chácara da Barra"
+    },
+    {
+     "id": "47885626",
+     "priceBRL": 2562,
+     "propertyType": "Apartamento",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Bela Vista"
+     },
+     "bedrooms": 2,
+     "areaM2": 44,
+     "title": "Apartamento para Aluguel - Chácara Bela Vista, 2 Quartos,  44 m² - Campinas"
+    },
+    {
+     "id": "24415484",
+     "priceBRL": 2830,
+     "propertyType": "Conj. Comercial / Sala",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Bela Vista"
+     },
+     "bedrooms": null,
+     "areaM2": 39,
+     "title": "Sala para alugar em Campinas, Chácara Bela Vista, com 39 m²"
+    },
+    {
+     "id": "47978915",
+     "priceBRL": 4300,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara São Domingos"
+     },
+     "bedrooms": 3,
+     "areaM2": 250,
+     "title": "Casa para alugar no bairro Chácara São Domingos (Swift) em Campinas - SP"
+    },
+    {
+     "id": "48363219",
+     "priceBRL": 4500,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara São Domingos"
+     },
+     "bedrooms": 3,
+     "areaM2": 150,
+     "title": "Casa para alugar em Campinas, Chácara São Domingos, com 3 quartos, com 150 m²"
+    },
+    {
+     "id": "48363208",
+     "priceBRL": 4500,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara São Domingos"
+     },
+     "bedrooms": 3,
+     "areaM2": 150,
+     "title": "Casa para alugar em Campinas, Chácara São Domingos, com 3 quartos, com 150 m²"
+    },
+    {
+     "id": "45675812",
+     "priceBRL": 6172,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara São Rafael"
+     },
+     "bedrooms": 3,
+     "areaM2": 235,
+     "title": "Casa com 3 dormitórios, 235 m² - Chácara São Rafael - Campinas/SP"
+    },
+    {
+     "id": "47184688",
+     "priceBRL": 14000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": 252,
+     "title": "Casa Comercial para Aluguel na Chácara da Barra, Campinas | 252,30 m² e 5 Vagas"
+    },
+    {
+     "id": "48231931",
+     "priceBRL": 1700,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": null,
+     "areaM2": null,
+     "title": "Terreno comercial"
+    },
+    {
+     "id": "30405612",
+     "priceBRL": 12000,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 1,
+     "areaM2": 250,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "45680111",
+     "priceBRL": 6172,
+     "propertyType": "Casa / Sobrado em Condomínio",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara São Rafael"
+     },
+     "bedrooms": 3,
+     "areaM2": 235.5,
+     "title": "Casa em condomínio fechado"
+    },
+    {
+     "id": "39009837",
+     "priceBRL": 5500,
+     "propertyType": "Casa / Sobrado Comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 3,
+     "areaM2": 205,
+     "title": "Casa comercial"
+    },
+    {
+     "id": "41096952",
+     "priceBRL": 8000,
+     "propertyType": "Casa / Sobrado",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara da Barra"
+     },
+     "bedrooms": 3,
+     "areaM2": 290,
+     "title": "Casa"
+    },
+    {
+     "id": "43460457",
+     "priceBRL": 6500,
+     "propertyType": "Galpão / Depósito",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Santa Letícia"
+     },
+     "bedrooms": null,
+     "areaM2": 322,
+     "title": "Galpão para aluguel em Chácara Santa Letícia, Campinas - SP | Cód 59392"
+    },
+    {
+     "id": "23535389",
+     "priceBRL": 6000,
+     "propertyType": "Terreno comercial",
+     "location": {
+      "city": "Campinas",
+      "state": "SP",
+      "neighborhood": "Chácara Santa Letícia"
+     },
+     "bedrooms": null,
+     "areaM2": null,
+     "title": "Terreno comercial"
+    }
+   ]
+  }
+ ]
+}
