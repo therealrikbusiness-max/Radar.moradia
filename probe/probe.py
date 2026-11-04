@@ -15,7 +15,7 @@ for i, line in enumerate(pathlib.Path("probe/urls.txt").read_text().split("\n"))
     try:
         r = requests.get(base + "/robots.txt", headers={"User-Agent": UA}, timeout=30)
         rec["robots_status"] = r.status_code
-        (out / f"{i:02d}_{name}_robots.txt").write_text(r.text[:200000])
+        pass
         rp = urllib.robotparser.RobotFileParser()
         rp.parse(r.text.splitlines() if r.status_code == 200 else [])
         rec["allowed"] = rp.can_fetch(UA, url) if r.status_code == 200 else (r.status_code == 404)

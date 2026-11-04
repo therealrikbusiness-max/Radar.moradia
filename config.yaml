@@ -1,0 +1,48 @@
+# RADAR MORADIA v1.0 — configuração
+# Valores em reais (R$) por mês.
+
+orcamento:
+  prioridade_max: 900      # faixa de prioridade máxima
+  teto: 1100               # teto, incluindo condomínio e taxas obrigatórias conhecidas
+  # Acima do teto, só entra na seção "excepcionais" se a pontuação for alta
+  # e o total não passar deste limite:
+  excepcional_max: 1400
+  excepcional_pontuacao_min: 70
+
+# Municípios aceitos (comparação sem acento e sem caixa)
+municipios: [paulinia, campinas]
+
+# Bairros-alvo. "peso" entra na classificação (0–25).
+# Em Campinas, só bairros listados aqui são aceitos (o município é grande demais).
+regioes:
+  - { nome: "Morumbi", municipio: paulinia, peso: 25, apelidos: ["jardim morumbi", "morumbi"] }
+  - { nome: "Centro", municipio: paulinia, peso: 25, apelidos: ["centro"] }
+  - { nome: "Vila Presidente Médici", municipio: paulinia, peso: 22, apelidos: ["presidente medici", "vila presidente medici"] }
+  - { nome: "São José", municipio: paulinia, peso: 20, apelidos: ["sao jose", "jardim sao jose", "sao jose i", "sao jose ii", "sao jose iii"] }
+  - { nome: "Betel", municipio: paulinia, peso: 20, apelidos: ["betel", "parque betel", "jardim betel"] }
+  - { nome: "João Aranha", municipio: paulinia, peso: 20, apelidos: ["joao aranha", "joao aranha"] }
+  - { nome: "Barão Geraldo", municipio: campinas, peso: 22, apelidos: ["barao geraldo", "cidade universitaria", "vila santa isabel", "vila santa izabel", "jardim santa genebra", "real parque", "guara", "jardim do sol"] }
+  # Acesso pela Rod. Prof. Zeferino Vaz (SP-332) / Transportes Cavalinho
+  - { nome: "Bom Retiro", municipio: paulinia, peso: 15, apelidos: ["bom retiro", "parque bom retiro"] }
+  - { nome: "Nova Paulínia", municipio: paulinia, peso: 15, apelidos: ["nova paulinia"] }
+  - { nome: "Santa Terezinha", municipio: paulinia, peso: 12, apelidos: ["santa terezinha", "santa teresinha"] }
+  - { nome: "Monte Alegre", municipio: paulinia, peso: 12, apelidos: ["monte alegre", "jardim monte alegre"] }
+  - { nome: "Santa Cecília", municipio: paulinia, peso: 10, apelidos: ["santa cecilia", "jardim santa cecilia"] }
+  - { nome: "Alto de Pinheiros", municipio: paulinia, peso: 10, apelidos: ["alto de pinheiros"] }
+  - { nome: "Cascata", municipio: paulinia, peso: 10, apelidos: ["cascata", "jardim cascata"] }
+
+# Em Paulínia, bairro não listado é aceito com este peso (cidade pequena).
+peso_bairro_nao_listado_paulinia: 5
+
+tipos_aceitos: [kitnet, studio, edicula, casa_fundos, casa_1_quarto, casa_pequena]
+
+http:
+  user_agent: "RadarMoradia/1.0 (+https://github.com/therealrikbusiness-max/Radar.moradia)"
+  timeout: 30
+  intervalo_min_segundos: 4     # pausa mínima entre requisições ao mesmo host
+  tentativas: 3
+  max_paginas_por_fonte: 3
+
+# Fontes. Cada uma é um módulo em radar_moradia/sources/.
+# Uma fonte só é consultada se estiver "ativa" E o robots.txt permitir a URL.
+fontes: {}
