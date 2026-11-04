@@ -41,8 +41,32 @@ http:
   timeout: 30
   intervalo_min_segundos: 4     # pausa mínima entre requisições ao mesmo host
   tentativas: 3
-  max_paginas_por_fonte: 3
 
 # Fontes. Cada uma é um módulo em radar_moradia/sources/.
 # Uma fonte só é consultada se estiver "ativa" E o robots.txt permitir a URL.
-fontes: {}
+fontes:
+  chavesnamao:
+    ativa: true
+    modulo: chavesnamao
+    # Servidor MCP oficial do portal (canal indicado pelo próprio site para agentes).
+    endpoint: "https://www.chavesnamao.com.br/api/mcp/"
+    max_paginas_por_consulta: 20   # limite da própria ferramenta
+    consultas:
+      # Paulínia: todos os tipos até o limite de "excepcional"; a classificação filtra o resto
+      - filters: { transaction: aluguel, city: "Paulínia", state: SP, maxPrice: 1400 }
+      # Barão Geraldo e sub-bairros
+      - filters: { transaction: aluguel, city: Campinas, state: SP, neighborhood: "Barão Geraldo", maxPrice: 1400 }
+      - filters: { transaction: aluguel, city: Campinas, state: SP, neighborhood: "Cidade Universitária", maxPrice: 1400 }
+      - filters: { transaction: aluguel, city: Campinas, state: SP, neighborhood: "Vila Santa Isabel", maxPrice: 1400 }
+      - filters: { transaction: aluguel, city: Campinas, state: SP, neighborhood: "Jardim Santa Genebra", maxPrice: 1400 }
+      - filters: { transaction: aluguel, city: Campinas, state: SP, neighborhood: "Real Parque", maxPrice: 1400 }
+      - filters: { transaction: aluguel, city: Campinas, state: SP, neighborhood: "Guará", maxPrice: 1400 }
+      # Kitnets em toda Campinas (a região é filtrada localmente pelos apelidos em `regioes`)
+      - filters: { transaction: aluguel, propertyType: kitnet, city: Campinas, state: SP, maxPrice: 1400 }
+
+  # Exemplo de feed XML VRSync de imobiliária (ative somente com URL pública/autorizada):
+  imobiliaria_exemplo:
+    ativa: false
+    modulo: vrsync
+    nome: imobiliaria_exemplo
+    urls: []

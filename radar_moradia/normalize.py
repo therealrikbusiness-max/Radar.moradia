@@ -50,6 +50,10 @@ def _fee_from_text(text_n: str, labels: list[str]) -> Optional[float]:
         m = re.search(lab + r"[^\d\n]{0,25}?r\$\s*([\d.]+(?:,\d{1,2})?)", text_n)
         if m:
             return parse_money("R$ " + m.group(1))
+        # "valor de 280,00 de condomínio" / "R$ 150 de condomínio"
+        m = re.search(r"(?:r\$\s*)?(\d{1,3}(?:\.\d{3})*,\d{2}|\d{2,4})\s+(?:reais\s+)?(?:de|do|da)\s+" + lab, text_n)
+        if m:
+            return parse_money("R$ " + m.group(1))
     return None
 
 
@@ -109,8 +113,8 @@ def detect_mobiliado(text: str) -> Optional[bool]:
 
 
 _CONTAS = {
-    "agua": r"agua",
-    "luz": r"\bluz\b|energia",
+    "agua": r"agua|sanasa|sabesp",
+    "luz": r"\bluz\b|energia|cpfl",
     "internet": r"internet|wi-?fi",
     "gas": r"\bgas\b",
     "iptu": r"iptu",
@@ -127,6 +131,12 @@ def detect_contas(text: str) -> list[str]:
             rf"{_INCL}[^.;\n]{{0,40}}({pat})", t
         ):
             found.append(nome)
+    # "condomínio ... refere-se ao rateio: SANASA, CPFL, IPTU e internet"
+    m = re.search(r"condominio[^.]{0,80}?rateio[^.]{0,120}", t)
+    if m:
+        for nome, pat in _CONTAS.items():
+            if nome != "condominio" and re.search(pat, m.group(0)) and nome not in found:
+                found.append(nome)
     if not found and re.search(r"contas inclusas|tudo incluso|contas incluidas", t):
         found.append("contas (não especificadas)")
     return found

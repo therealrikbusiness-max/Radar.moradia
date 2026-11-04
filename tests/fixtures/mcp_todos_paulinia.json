@@ -1,0 +1,347 @@
+{
+ "capturado_em": "2026-11-04",
+ "args": {
+  "filters": {
+   "transaction": "aluguel",
+   "city": "Paulínia",
+   "state": "SP",
+   "maxPrice": 1400
+  }
+ },
+ "result": {
+  "results": [
+   {
+    "id": "36775527",
+    "title": "Sala para alugar, 30 m² por R$ 1.200,00/mês - Santa Cecília - Paulínia/SP",
+    "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-santa-cecilia-RS1200/id-36775527/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-santa-cecilia-RS1200/id-36775527/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Conj. Comercial / Sala",
+    "priceBRL": 1200,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Santa Cecília"
+    },
+    "bathrooms": 1,
+    "parkingSpots": null,
+    "areaM2": 30,
+    "imageUrl": "1063522/36775527/sp-paulinia-santa-cecilia-nao-encontrado-conj-comercial-sala-para-alugar-6adad481-1.jpg"
+   },
+   {
+    "id": "47890835",
+    "title": "Sala para alugar, 50 m² por R$ 1.490,00/mês - Jardim América - Paulínia/SP",
+    "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-america-RS1400/id-47890835/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-america-RS1400/id-47890835/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Conj. Comercial / Sala",
+    "priceBRL": 1400,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Jardim America"
+    },
+    "bathrooms": 1,
+    "parkingSpots": null,
+    "areaM2": 50,
+    "imageUrl": "39375/47890835/sp-paulinia-jardim-america-nao-encontrado-conj-comercial-sala-para-alugar-6ad65df7-1.jpg"
+   },
+   {
+    "id": "36775547",
+    "title": "Sala para alugar, 30 m² por R$ 1.300,00/mês - Jardim de Itapoan - Paulínia/SP",
+    "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-de-itapoan-RS1300/id-36775547/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-de-itapoan-RS1300/id-36775547/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Conj. Comercial / Sala",
+    "priceBRL": 1300,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Jardim de Itapoan"
+    },
+    "bathrooms": 1,
+    "parkingSpots": null,
+    "areaM2": 30,
+    "imageUrl": "1063522/36775547/sp-paulinia-jardim-de-itapoan-rua-tenente-alberto-mendes-junior-conj-comercial-sala-para-alugar-69155265-1.jpg"
+   },
+   {
+    "id": "35316773",
+    "title": "Galpão 2.500m em Condomínio Industrial Paulínia - Ifacil.com.br",
+    "url": "https://www.chavesnamao.com.br/imovel/galpao-deposito-para-alugar-sp-paulinia-cascata/id-35316773/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/galpao-deposito-para-alugar-sp-paulinia-cascata/id-35316773/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Galpão / Depósito",
+    "priceBRL": 0,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Cascata"
+    },
+    "bathrooms": null,
+    "parkingSpots": null,
+    "areaM2": 2020.73,
+    "imageUrl": "991803/35316773/sp-paulinia-cascata-avenida-madrid-barracao-galpao-para-alugar-6ab4ec3a-1.jpg"
+   },
+   {
+    "id": "36775524",
+    "title": "Sala para alugar, 30 m² por R$ 1.000,00/mês - Centro - Paulínia/SP",
+    "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-centro-RS1000/id-36775524/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-centro-RS1000/id-36775524/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Conj. Comercial / Sala",
+    "priceBRL": 1000,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Centro"
+    },
+    "bathrooms": 1,
+    "parkingSpots": null,
+    "areaM2": 30,
+    "imageUrl": "1063522/36775524/sp-paulinia-centro-avenida-presidente-getulio-vargas-conj-comercial-sala-para-alugar-69155263-1.jpg"
+   },
+   {
+    "id": "36775529",
+    "title": "Sala para alugar, 20 m² por R$ 1.200,00/mês - Jardim dos Calegaris - Paulínia/SP",
+    "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-dos-calegaris-RS1200/id-36775529/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-dos-calegaris-RS1200/id-36775529/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Conj. Comercial / Sala",
+    "priceBRL": 1200,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Jardim dos Calegaris"
+    },
+    "bathrooms": 1,
+    "parkingSpots": null,
+    "areaM2": 20,
+    "imageUrl": "1063522/36775529/sp-paulinia-jardim-dos-calegaris-avenida-presidente-getulio-vargas-conj-comercial-sala-para-alugar-69155263-1.jpg"
+   },
+   {
+    "id": "36775544",
+    "title": "Sala para alugar, 20 m² por R$ 1.000,00/mês - Centro - Paulínia/SP",
+    "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-centro-RS1000/id-36775544/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-centro-RS1000/id-36775544/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Conj. Comercial / Sala",
+    "priceBRL": 1000,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Centro"
+    },
+    "bathrooms": 1,
+    "parkingSpots": null,
+    "areaM2": 20,
+    "imageUrl": "1063522/36775544/sp-paulinia-centro-avenida-presidente-getulio-vargas-conj-comercial-sala-para-alugar-69155265-1.jpg"
+   },
+   {
+    "id": "46777219",
+    "title": "Sala comercial para locação com banheiro no bairro Jd. Vista Alegre - Paulínia",
+    "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-vista-alegre-RS1200/id-46777219/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-vista-alegre-RS1200/id-46777219/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Conj. Comercial / Sala",
+    "priceBRL": 1200,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Jardim Vista Alegre"
+    },
+    "bathrooms": 1,
+    "parkingSpots": null,
+    "areaM2": 27,
+    "imageUrl": "39380/46777219/sp-paulinia-jardim-vista-alegre-rua-adelelmo-piva-conj-comercial-sala-para-alugar-6aaaa30e-7.jpg"
+   },
+   {
+    "id": "18377598",
+    "title": "Sala para alugar, 50 m² por R$ 1.200,00/mês - Santa Cecília - Paulínia/SP",
+    "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-santa-cecilia-RS1200/id-18377598/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-santa-cecilia-RS1200/id-18377598/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Conj. Comercial / Sala",
+    "priceBRL": 1200,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Santa Cecília"
+    },
+    "bathrooms": 1,
+    "parkingSpots": 1,
+    "areaM2": 50,
+    "imageUrl": "40284/18377598/sp-paulinia-santa-cecilia-avenida-presidente-getulio-vargas-sala-comercial-para-alugar-65823e59-1.jpg"
+   },
+   {
+    "id": "33323778",
+    "title": "Ponto comercial (quiosque) para locação próximo ao supermercado Pague Menos João Aranha-Paulínia/Sp",
+    "url": "https://www.chavesnamao.com.br/imovel/loja-comercio-para-alugar-sp-paulinia-alto-de-pinheiros-RS1200/id-33323778/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/loja-comercio-para-alugar-sp-paulinia-alto-de-pinheiros-RS1200/id-33323778/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Loja / Comércio",
+    "priceBRL": 1200,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Alto de Pinheiros"
+    },
+    "bathrooms": null,
+    "parkingSpots": 10,
+    "areaM2": 13.6,
+    "imageUrl": "39380/33323778/sp-paulinia-alto-de-pinheiros-avenida-jose-padovani-loja-comercio-para-alugar-69a77398-1.jpg"
+   },
+   {
+    "id": "37911104",
+    "title": "Galpão à venda e para alugar em Paulínia, Vila José Paulino Nogueira, com 3065.85 m²",
+    "url": "https://www.chavesnamao.com.br/imovel/galpao-deposito-para-alugar-sp-paulinia-vila-jose-paulino-nogueira/id-37911104/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/galpao-deposito-para-alugar-sp-paulinia-vila-jose-paulino-nogueira/id-37911104/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Galpão / Depósito",
+    "priceBRL": 0,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Vila José Paulino Nogueira"
+    },
+    "bathrooms": 4,
+    "parkingSpots": 60,
+    "areaM2": 2420.88,
+    "imageUrl": "147262/37911104/sp-paulinia-vila-jose-paulino-nogueira-avenida-antonio-baptista-piva-barracao-galpao-para-alugar-6943d021-1.jpg"
+   },
+   {
+    "id": "38324170",
+    "title": "Sala para alugar, 40 m² por R$ 1.400,00/mês - Jardim Vista Alegre - Paulínia/SP",
+    "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-vista-alegre-RS1400/id-38324170/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-vista-alegre-RS1400/id-38324170/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Conj. Comercial / Sala",
+    "priceBRL": 1400,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Jardim Vista Alegre"
+    },
+    "bathrooms": 1,
+    "parkingSpots": null,
+    "areaM2": 40,
+    "imageUrl": "1063522/38324170/sp-paulinia-jardim-vista-alegre-rua-maria-das-dores-leal-de-queiroz-conj-comercial-sala-para-alugar-6960761e-1.jpg"
+   },
+   {
+    "id": "38521711",
+    "title": "SALA COMERCIAL NOVA PARA LOCAÇÃO – 30 m² | JOÃO ARANHA – PAULÍNIA/SP",
+    "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-joao-aranha-RS1300/id-38521711/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-joao-aranha-RS1300/id-38521711/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Conj. Comercial / Sala",
+    "priceBRL": 1300,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "João Aranha"
+    },
+    "bathrooms": 1,
+    "parkingSpots": 1,
+    "areaM2": 30,
+    "imageUrl": "39380/38521711/sp-paulinia-joao-aranha-avenida-jose-padovani-conj-comercial-sala-para-alugar-69a77257-1.jpg"
+   },
+   {
+    "id": "35316772",
+    "title": "Galpão 15.760m em Condomínio Industrial Paulínia - Ifacil.com.br",
+    "url": "https://www.chavesnamao.com.br/imovel/galpao-deposito-para-alugar-sp-paulinia-cascata/id-35316772/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/galpao-deposito-para-alugar-sp-paulinia-cascata/id-35316772/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Galpão / Depósito",
+    "priceBRL": 0,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Cascata"
+    },
+    "bathrooms": null,
+    "parkingSpots": null,
+    "areaM2": 7500,
+    "imageUrl": "991803/35316772/sp-paulinia-cascata-avenida-madrid-barracao-galpao-para-alugar-6ab4eb95-1.jpg"
+   },
+   {
+    "id": "43800041",
+    "title": "Sala comercial para locação região central de Paulínia-SP",
+    "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-dos-calegaris-RS1000/id-43800041/",
+    "cta": {
+     "label": "Ver anúncio",
+     "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-jardim-dos-calegaris-RS1000/id-43800041/"
+    },
+    "transaction": "aluguel",
+    "propertyType": "Conj. Comercial / Sala",
+    "priceBRL": 1000,
+    "location": {
+     "city": "Paulínia",
+     "state": "SP",
+     "neighborhood": "Jardim dos Calegaris"
+    },
+    "bathrooms": 1,
+    "parkingSpots": null,
+    "areaM2": 20,
+    "imageUrl": "40284/43800041/sp-paulinia-jardim-dos-calegaris-nao-encontrado-conj-comercial-sala-para-alugar-6a335199-1.jpg"
+   }
+  ],
+  "pagination": {
+   "page": 1,
+   "pageSize": 15,
+   "totalResults": 36,
+   "totalPages": 3
+  },
+  "appliedFilters": {
+   "transaction": "aluguel",
+   "city": "Paulínia",
+   "state": "SP",
+   "maxPrice": 1400
+  },
+  "searchUrl": "https://www.chavesnamao.com.br/sala-comercial-para-alugar/sp-paulinia/santa-cecilia/",
+  "cta": {
+   "label": "Ver resultados",
+   "url": "https://www.chavesnamao.com.br/sala-comercial-para-alugar/sp-paulinia/santa-cecilia/"
+  }
+ }
+}
