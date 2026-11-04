@@ -12,14 +12,23 @@ http = PoliteClient("RadarMoradia/1.0 (+https://github.com/therealrikbusiness-ma
 mcp = MCPClient(http, "https://www.chavesnamao.com.br/api/mcp/"); mcp.initialize()
 esperado = {"id_fonte": "30482980", "aluguel": 1450.0, "bairro": "Barão Geraldo", "municipio": "Campinas", "quartos": 1}
 achado, log = None, []
-for page in range(1, 21):
-    r = mcp.call_tool("search_realty_listings", {"filters": {"transaction": "aluguel", "propertyType": "kitnet",
-        "city": "Campinas", "state": "SP", "neighborhood": "Barão Geraldo", "minPrice": 1400, "maxPrice": 1500}, "page": page})
-    log.append({"page": page, "pagination": r.get("pagination"), "ids": [x["id"] for x in r["results"]]})
-    for x in r["results"]:
-        if str(x["id"]) == esperado["id_fonte"]:
-            achado = x
-    if achado or page >= (r.get("pagination") or {}).get("totalPages", 0):
+variantes = [
+  {"transaction": "aluguel", "city": "Campinas", "state": "SP", "minPrice": 1450, "maxPrice": 1450},
+  {"transaction": "aluguel", "propertyType": "kitnet", "city": "Campinas", "state": "SP", "minPrice": 1450, "maxPrice": 1450},
+  {"transaction": "aluguel", "city": "Campinas", "state": "SP", "neighborhood": "Barão Geraldo", "minPrice": 1450, "maxPrice": 1450},
+  {"transaction": "aluguel", "city": "Campinas", "state": "SP", "neighborhood": "Chácara Belvedere"},
+]
+for f in variantes:
+    for page in range(1, 21):
+        r = mcp.call_tool("search_realty_listings", {"filters": f, "page": page})
+        hits = [{k: x.get(k) for k in ("id", "priceBRL", "propertyType", "location", "bedrooms", "areaM2", "title")} for x in r["results"]]
+        log.append({"filters": f, "page": page, "pagination": r.get("pagination"), "hits": hits})
+        for x in r["results"]:
+            if str(x["id"]) == esperado["id_fonte"]:
+                achado = x
+        if achado or page >= (r.get("pagination") or {}).get("totalPages", 0):
+            break
+    if achado:
         break
 res = {"esperado": esperado, "mcp_bruto": achado, "log": log}
 if achado:
