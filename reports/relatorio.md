@@ -1,17 +1,17 @@
-# RADAR MORADIA — relatório de 2026-11-04T18:39:54+00:00
+# RADAR MORADIA — relatório de 2026-11-05T02:29:30+00:00
 
 Critérios: total até **R$ 900,00** (prioridade) e teto **R$ 1.100,00**, Paulínia e Barão Geraldo/Campinas, kitnet, studio, edícula, casa de fundos, casa de 1 quarto ou casa pequena.
 
 ## Fontes nesta execução
 | Fonte | Situação | Anúncios coletados | Observação |
 |---|---|---|---|
-| chavesnamao | ok | 214 | — |
+| chavesnamao | ok | 220 | — |
 
-**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 0 indisponíveis
+**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 1 indisponíveis
 
 ## 📊 Panorama da área-alvo
 - Anúncios do tipo procurado na área-alvo (ativos): **4**; acima do teto: **4**.
-- Mais baratos acima do teto (referência de mercado, **não elegíveis**): [R$ 1.290,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1290/id-33176872/); [R$ 1.300,00 — Barão Geraldo](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-barao-geraldo-RS1300/id-39390422/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-15824198/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-47774087/)
+- Mais baratos acima do teto (referência de mercado, **não elegíveis**): [R$ 1.290,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1290/id-33176872/); [R$ 1.300,00 — Barão Geraldo](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-barao-geraldo-RS1300/id-39390422/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-47774087/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-15824198/)
 
 ## 🟢 Prioridade (até R$ 900,00)
 
@@ -28,6 +28,9 @@ _Nenhum anúncio nesta categoria._
 ## 🔵 Excepcionais — ACIMA DO TETO (não elegíveis, apenas referência)
 
 _Nenhum anúncio nesta categoria._
+
+## ⚫ Indisponíveis desde a última verificação
+- [Sala para alugar, 30 m² por R$ 1.000,00/mês - Centro - Paulínia/SP](https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-centro-RS1000/id-36775528/) — Centro, R$ 1.000,00
 
 ---
 Dados conforme publicados pelos anunciantes; campos "não informado" não foram publicados. Confirme valores e condições diretamente com o anunciante antes de qualquer pagamento.

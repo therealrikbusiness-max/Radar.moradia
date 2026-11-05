@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-04T18:39:54+00:00",
+  "gerado_em": "2026-11-05T02:29:30+00:00",
   "criterios": {
     "prioridade_max": 900,
     "teto": 1100,
@@ -11,7 +11,7 @@
       "fonte": "chavesnamao",
       "ok": true,
       "bloqueada": false,
-      "coletados": 214,
+      "coletados": 220,
       "paginas": 23,
       "cobertura_completa": true,
       "erros": []
@@ -26,6 +26,46 @@
     "acima_do_teto": 4,
     "menor_acima_do_teto": 1290.0
   },
-  "indisponiveis": [],
+  "indisponiveis": [
+    {
+      "fonte": "chavesnamao",
+      "id_fonte": "36775528",
+      "url": "https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-paulinia-centro-RS1000/id-36775528/",
+      "titulo": "Sala para alugar, 30 m² por R$ 1.000,00/mês - Centro - Paulínia/SP",
+      "descricao": "",
+      "bairro": "Centro",
+      "municipio": "Paulínia",
+      "endereco": null,
+      "aluguel": 1000.0,
+      "condominio": null,
+      "iptu": null,
+      "outras_taxas": null,
+      "mobiliado": null,
+      "contas_incluidas": [],
+      "caucao": null,
+      "quartos": null,
+      "area_m2": 30.0,
+      "tipo": "comercial_ou_outro",
+      "data_publicacao": null,
+      "telefone": null,
+      "whatsapp_link": null,
+      "anunciante": null,
+      "preco_titulo": null,
+      "alertas": [],
+      "ausencias": 3,
+      "uid": "80608afc9d5c2773",
+      "total_mensal": 1000.0,
+      "regiao": "Centro",
+      "pontuacao": 0,
+      "motivos": [
+        "tipo não procurado (comercial_ou_outro)"
+      ],
+      "categoria": "descartado",
+      "status": "indisponivel",
+      "primeira_vez": "2026-11-04T05:27:20+00:00",
+      "ultima_verificacao": "2026-11-04T05:27:20+00:00",
+      "duplicata_de": null
+    }
+  ],
   "descartados_qtd": 261
 }
