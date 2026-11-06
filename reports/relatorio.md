@@ -1,13 +1,13 @@
-# RADAR MORADIA — relatório de 2026-11-06T02:27:25+00:00
+# RADAR MORADIA — relatório de 2026-11-06T17:58:25+00:00
 
 Critérios: total até **R$ 900,00** (prioridade) e teto **R$ 1.100,00**, Paulínia e Barão Geraldo/Campinas, kitnet, studio, edícula, casa de fundos, casa de 1 quarto ou casa pequena.
 
 ## Fontes nesta execução
 | Fonte | Situação | Anúncios coletados | Observação |
 |---|---|---|---|
-| chavesnamao | ok | 216 | — |
+| chavesnamao | ok | 208 | — |
 
-**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 7 indisponíveis
+**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 10 indisponíveis
 
 ## 📊 Panorama da área-alvo
 - Anúncios do tipo procurado na área-alvo (ativos): **4**; acima do teto: **4**.
@@ -37,6 +37,9 @@ _Nenhum anúncio nesta categoria._
 - [Ponto para locação, Conjunto Residencial Parque São Bento, Campinas, SP](https://www.chavesnamao.com.br/imovel/casa-sobrado-comercial-para-alugar-sp-campinas-conjunto-residencial-parque-sao-bento-RS800/id-31031067/) — Conjunto Residencial Parque São Bento, R$ 800,00
 - [para locação, Conjunto Residencial Parque São Bento, Campinas, SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-conjunto-residencial-parque-sao-bento-RS1300/id-31031064/) — Conjunto Residencial Parque São Bento, R$ 1.300,00
 - [Casa](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-vila-italia-RS1200/id-6582115/) — Vila Itália, R$ 1.200,00
+- [Casa para locação, Clube Sant Clara do Lago, Campinas, SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-santa-clara-RS1150/id-17804936/) — Jardim Santa Clara, R$ 1.150,00
+- [Salão para locação no bairro Jardim Anchieta em Campinas - SP](https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-campinas-jardim-pauliceia-RS1400/id-46066873/) — Jardim Paulicéia, R$ 1.400,00
+- [Casa](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-parque-industrial-RS1000/id-24654065/) — Parque Industrial, R$ 1.000,00
 
 ---
 Dados conforme publicados pelos anunciantes; campos "não informado" não foram publicados. Confirme valores e condições diretamente com o anunciante antes de qualquer pagamento.
