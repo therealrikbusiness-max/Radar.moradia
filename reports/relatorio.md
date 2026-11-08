@@ -1,17 +1,17 @@
-# RADAR MORADIA — relatório de 2026-11-08T01:26:57+00:00
+# RADAR MORADIA — relatório de 2026-11-08T17:04:31+00:00
 
 Critérios: total até **R$ 900,00** (prioridade) e teto **R$ 1.100,00**, Paulínia e Barão Geraldo/Campinas, kitnet, studio, edícula, casa de fundos, casa de 1 quarto ou casa pequena.
 
 ## Fontes nesta execução
 | Fonte | Situação | Anúncios coletados | Observação |
 |---|---|---|---|
-| chavesnamao | ok | 195 | — |
+| chavesnamao | ok | 190 | — |
 
-**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 24 indisponíveis
+**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 32 indisponíveis
 
 ## 📊 Panorama da área-alvo
 - Anúncios do tipo procurado na área-alvo (ativos): **4**; acima do teto: **4**.
-- Mais baratos acima do teto (referência de mercado, **não elegíveis**): [R$ 1.290,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1290/id-33176872/); [R$ 1.300,00 — Barão Geraldo](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-barao-geraldo-RS1300/id-39390422/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-15824198/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-47774087/)
+- Mais baratos acima do teto (referência de mercado, **não elegíveis**): [R$ 1.300,00 — Barão Geraldo](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-barao-geraldo-RS1300/id-39390422/); [R$ 1.300,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1300/id-38202201/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-47774087/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-15824198/)
 
 ## 🟢 Prioridade (até R$ 900,00)
 
@@ -54,6 +54,12 @@ _Nenhum anúncio nesta categoria._
 - [Kitnet com 1 dormitório para alugar, 30 m² por R$ 1.400,00/mês - Arruamento Fain José Feres - Campinas/SP](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-arruamento-fain-jose-feres-RS1400/id-37349959/) — Arruamento Fain José Feres, R$ 1.400,00
 - [Casa à Venda com 3 Dormitórios no Jardim Santa Eudóxia ? Campinas/SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-santa-eudoxia/id-46440928/) — Jardim Santa Eudóxia, não informado
 - [Casa com 3 Quartos à Venda - Parque Industrial - Campinas/SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-vila-anhanguera/id-46196814/) — Vila Anhangüera, não informado
+- [Salão comercial 28 m² - jd. Santana - campinas - para pequenos comercios](https://www.chavesnamao.com.br/imovel/loja-comercio-para-alugar-sp-campinas-jardim-santana-RS1180/id-40975689/) — Jardim Santana, R$ 1.180,00
+- [Casa com 1 dormitório para alugar, 45 m² por R$ 1.370,00/mês - Jardim Proença - Campinas/SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-proenca-RS1290/id-26501811/) — Jardim Proença, R$ 1.290,00
+- [Apartamento para alugar em Campinas, Jardim Mirassol, com 1 quarto, com 50 m²](https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-sp-campinas-jardim-mirassol-RS1400/id-45296809/) — Jardim Mirassol, R$ 1.400,00
+- [Casa](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-proenca-RS1100/id-13390069/) — Jardim Proença, R$ 1.100,00
+- [Sala comercial](https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-campinas-jardim-yeda-RS600/id-47970586/) — Jardim Yeda, R$ 600,00
+- [Sala comercial](https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-campinas-jardim-yeda-RS1400/id-48386331/) — Jardim Yeda, R$ 1.400,00
 
 ---
 Dados conforme publicados pelos anunciantes; campos "não informado" não foram publicados. Confirme valores e condições diretamente com o anunciante antes de qualquer pagamento.
