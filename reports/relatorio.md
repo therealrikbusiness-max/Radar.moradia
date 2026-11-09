@@ -1,17 +1,17 @@
-# RADAR MORADIA — relatório de 2026-11-09T01:44:21+00:00
+# RADAR MORADIA — relatório de 2026-11-09T21:26:42+00:00
 
 Critérios: total até **R$ 900,00** (prioridade) e teto **R$ 1.100,00**, Paulínia e Barão Geraldo/Campinas, kitnet, studio, edícula, casa de fundos, casa de 1 quarto ou casa pequena.
 
 ## Fontes nesta execução
 | Fonte | Situação | Anúncios coletados | Observação |
 |---|---|---|---|
-| chavesnamao | ok | 215 | — |
+| chavesnamao | ok | 198 | — |
 
-**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 29 indisponíveis
+**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 24 indisponíveis
 
 ## 📊 Panorama da área-alvo
 - Anúncios do tipo procurado na área-alvo (ativos): **4**; acima do teto: **4**.
-- Mais baratos acima do teto (referência de mercado, **não elegíveis**): [R$ 1.290,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1290/id-33176872/); [R$ 1.300,00 — Barão Geraldo](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-barao-geraldo-RS1300/id-39390422/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-15824198/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-47774087/)
+- Mais baratos acima do teto (referência de mercado, **não elegíveis**): [R$ 1.300,00 — Barão Geraldo](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-barao-geraldo-RS1300/id-39390422/); [R$ 1.300,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1300/id-38202201/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-15824198/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-47774087/)
 
 ## 🟢 Prioridade (até R$ 900,00)
 
@@ -54,11 +54,6 @@ _Nenhum anúncio nesta categoria._
 - [Kitnet com 1 dormitório para alugar, 30 m² por R$ 1.400,00/mês - Arruamento Fain José Feres - Campinas/SP](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-arruamento-fain-jose-feres-RS1400/id-37349959/) — Arruamento Fain José Feres, R$ 1.400,00
 - [Casa à Venda com 3 Dormitórios no Jardim Santa Eudóxia ? Campinas/SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-santa-eudoxia/id-46440928/) — Jardim Santa Eudóxia, não informado
 - [Casa com 3 Quartos à Venda - Parque Industrial - Campinas/SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-vila-anhanguera/id-46196814/) — Vila Anhangüera, não informado
-- [Casa](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-proenca-RS1100/id-13390069/) — Jardim Proença, R$ 1.100,00
-- [Sala comercial](https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-campinas-jardim-yeda-RS600/id-47970586/) — Jardim Yeda, R$ 600,00
-- [Sala comercial](https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-campinas-jardim-yeda-RS1400/id-48386331/) — Jardim Yeda, R$ 1.400,00
-- [Sala para alugar em Campinas, Jardim Guanabara, com 22 m²](https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-campinas-jardim-guanabara-RS1300/id-48094849/) — Jardim Guanabara, R$ 1.300,00
-- [Sala para alugar em Campinas, Jardim Chapadão, com 12 m²](https://www.chavesnamao.com.br/imovel/conj-comercial-sala-para-alugar-sp-campinas-jardim-chapadao-RS1300/id-45168615/) — Jardim Chapadão, R$ 1.300,00
 
 ---
 Dados conforme publicados pelos anunciantes; campos "não informado" não foram publicados. Confirme valores e condições diretamente com o anunciante antes de qualquer pagamento.
