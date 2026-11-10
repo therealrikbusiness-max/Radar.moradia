@@ -1,0 +1,4 @@
+2026-11-10 04:08:01,006 INFO radar: Fonte imobiliaria_exemplo desativada na configuração
+2026-11-10 04:08:01,007 INFO radar: Coletando fonte chavesnamao
+2026-11-10 04:09:41,178 INFO radar.fonte.chavesnamao: 212 anúncios únicos em 23 páginas
+2026-11-10 04:09:41,351 INFO radar: Resumo: {'fontes': [{'fonte': 'chavesnamao', 'ok': True, 'bloqueada': False, 'coletados': 212, 'paginas': 23, 'cobertura_completa': True, 'erros': []}], 'total_banco': 273, 'prioridade': 0, 'elegiveis': 0, 'excepcionais': 0, 'requisicoes': 26}
