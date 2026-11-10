@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-10T04:08:01+00:00",
+  "gerado_em": "2026-11-10T18:41:30+00:00",
   "criterios": {
     "prioridade_max": 900,
     "teto": 1100,
@@ -11,7 +11,7 @@
       "fonte": "chavesnamao",
       "ok": true,
       "bloqueada": false,
-      "coletados": 212,
+      "coletados": 204,
       "paginas": 23,
       "cobertura_completa": true,
       "erros": []
@@ -964,7 +964,46 @@
       "primeira_vez": "2026-11-04T05:27:20+00:00",
       "ultima_verificacao": "2026-11-06T17:58:25+00:00",
       "duplicata_de": null
+    },
+    {
+      "fonte": "chavesnamao",
+      "id_fonte": "48533303",
+      "url": "https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-do-lago/id-48533303/",
+      "titulo": "Casa residencial e comercial para alugar no bairro Jardim do Lago em Campinas - SP",
+      "descricao": "",
+      "bairro": "Jardim do Lago",
+      "municipio": "Campinas",
+      "endereco": null,
+      "aluguel": null,
+      "condominio": null,
+      "iptu": null,
+      "outras_taxas": null,
+      "mobiliado": null,
+      "contas_incluidas": [],
+      "caucao": null,
+      "quartos": 3,
+      "area_m2": 198.69,
+      "tipo": "casa",
+      "data_publicacao": null,
+      "telefone": null,
+      "whatsapp_link": null,
+      "anunciante": null,
+      "preco_titulo": null,
+      "alertas": [],
+      "ausencias": 3,
+      "uid": "61fd47a6a51a8346",
+      "total_mensal": null,
+      "regiao": null,
+      "pontuacao": 0,
+      "motivos": [
+        "fora da área (Jardim do Lago / Campinas)"
+      ],
+      "categoria": "descartado",
+      "status": "indisponivel",
+      "primeira_vez": "2026-11-06T02:27:25+00:00",
+      "ultima_verificacao": "2026-11-09T01:44:21+00:00",
+      "duplicata_de": null
     }
   ],
-  "descartados_qtd": 249
+  "descartados_qtd": 250
 }

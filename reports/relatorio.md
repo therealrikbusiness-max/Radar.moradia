@@ -1,13 +1,13 @@
-# RADAR MORADIA — relatório de 2026-11-10T04:08:01+00:00
+# RADAR MORADIA — relatório de 2026-11-10T18:41:30+00:00
 
 Critérios: total até **R$ 900,00** (prioridade) e teto **R$ 1.100,00**, Paulínia e Barão Geraldo/Campinas, kitnet, studio, edícula, casa de fundos, casa de 1 quarto ou casa pequena.
 
 ## Fontes nesta execução
 | Fonte | Situação | Anúncios coletados | Observação |
 |---|---|---|---|
-| chavesnamao | ok | 212 | — |
+| chavesnamao | ok | 204 | — |
 
-**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 24 indisponíveis
+**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 25 indisponíveis
 
 ## 📊 Panorama da área-alvo
 - Anúncios do tipo procurado na área-alvo (ativos): **4**; acima do teto: **4**.
@@ -54,6 +54,7 @@ _Nenhum anúncio nesta categoria._
 - [Kitnet com 1 dormitório para alugar, 30 m² por R$ 1.400,00/mês - Arruamento Fain José Feres - Campinas/SP](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-arruamento-fain-jose-feres-RS1400/id-37349959/) — Arruamento Fain José Feres, R$ 1.400,00
 - [Casa à Venda com 3 Dormitórios no Jardim Santa Eudóxia ? Campinas/SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-santa-eudoxia/id-46440928/) — Jardim Santa Eudóxia, não informado
 - [Casa com 3 Quartos à Venda - Parque Industrial - Campinas/SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-vila-anhanguera/id-46196814/) — Vila Anhangüera, não informado
+- [Casa residencial e comercial para alugar no bairro Jardim do Lago em Campinas - SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-do-lago/id-48533303/) — Jardim do Lago, não informado
 
 ---
 Dados conforme publicados pelos anunciantes; campos "não informado" não foram publicados. Confirme valores e condições diretamente com o anunciante antes de qualquer pagamento.
