@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-10T18:41:30+00:00",
+  "gerado_em": "2026-11-11T01:56:45+00:00",
   "criterios": {
     "prioridade_max": 900,
     "teto": 1100,
@@ -11,7 +11,7 @@
       "fonte": "chavesnamao",
       "ok": true,
       "bloqueada": false,
-      "coletados": 204,
+      "coletados": 196,
       "paginas": 23,
       "cobertura_completa": true,
       "erros": []
@@ -1002,6 +1002,45 @@
       "status": "indisponivel",
       "primeira_vez": "2026-11-06T02:27:25+00:00",
       "ultima_verificacao": "2026-11-09T01:44:21+00:00",
+      "duplicata_de": null
+    },
+    {
+      "fonte": "chavesnamao",
+      "id_fonte": "48405184",
+      "url": "https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-santa-marcelina-RS1179/id-48405184/",
+      "titulo": "Casa para Aluguel - Jardim Santa Marcelina, 1 Quarto,  180 m² - Campinas",
+      "descricao": "",
+      "bairro": "Jardim Santa Marcelina",
+      "municipio": "Campinas",
+      "endereco": null,
+      "aluguel": 1179.0,
+      "condominio": null,
+      "iptu": null,
+      "outras_taxas": null,
+      "mobiliado": null,
+      "contas_incluidas": [],
+      "caucao": null,
+      "quartos": 1,
+      "area_m2": 180.0,
+      "tipo": "casa_1_quarto",
+      "data_publicacao": null,
+      "telefone": null,
+      "whatsapp_link": null,
+      "anunciante": null,
+      "preco_titulo": null,
+      "alertas": [],
+      "ausencias": 3,
+      "uid": "4af1b50c34205c64",
+      "total_mensal": 1179.0,
+      "regiao": null,
+      "pontuacao": 0,
+      "motivos": [
+        "fora da área (Jardim Santa Marcelina / Campinas)"
+      ],
+      "categoria": "descartado",
+      "status": "indisponivel",
+      "primeira_vez": "2026-11-06T02:27:25+00:00",
+      "ultima_verificacao": "2026-11-09T21:26:42+00:00",
       "duplicata_de": null
     }
   ],

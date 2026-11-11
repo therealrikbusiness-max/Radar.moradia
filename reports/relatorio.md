@@ -1,17 +1,17 @@
-# RADAR MORADIA — relatório de 2026-11-10T18:41:30+00:00
+# RADAR MORADIA — relatório de 2026-11-11T01:56:45+00:00
 
 Critérios: total até **R$ 900,00** (prioridade) e teto **R$ 1.100,00**, Paulínia e Barão Geraldo/Campinas, kitnet, studio, edícula, casa de fundos, casa de 1 quarto ou casa pequena.
 
 ## Fontes nesta execução
 | Fonte | Situação | Anúncios coletados | Observação |
 |---|---|---|---|
-| chavesnamao | ok | 204 | — |
+| chavesnamao | ok | 196 | — |
 
-**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 25 indisponíveis
+**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 26 indisponíveis
 
 ## 📊 Panorama da área-alvo
 - Anúncios do tipo procurado na área-alvo (ativos): **4**; acima do teto: **4**.
-- Mais baratos acima do teto (referência de mercado, **não elegíveis**): [R$ 1.290,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1290/id-33176872/); [R$ 1.300,00 — Barão Geraldo](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-barao-geraldo-RS1300/id-39390422/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-15824198/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-47774087/)
+- Mais baratos acima do teto (referência de mercado, **não elegíveis**): [R$ 1.290,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1290/id-33176872/); [R$ 1.300,00 — Barão Geraldo](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-barao-geraldo-RS1300/id-39390422/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-47774087/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-15824198/)
 
 ## 🟢 Prioridade (até R$ 900,00)
 
@@ -55,6 +55,7 @@ _Nenhum anúncio nesta categoria._
 - [Casa à Venda com 3 Dormitórios no Jardim Santa Eudóxia ? Campinas/SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-santa-eudoxia/id-46440928/) — Jardim Santa Eudóxia, não informado
 - [Casa com 3 Quartos à Venda - Parque Industrial - Campinas/SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-vila-anhanguera/id-46196814/) — Vila Anhangüera, não informado
 - [Casa residencial e comercial para alugar no bairro Jardim do Lago em Campinas - SP](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-do-lago/id-48533303/) — Jardim do Lago, não informado
+- [Casa para Aluguel - Jardim Santa Marcelina, 1 Quarto,  180 m² - Campinas](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-santa-marcelina-RS1179/id-48405184/) — Jardim Santa Marcelina, R$ 1.179,00
 
 ---
 Dados conforme publicados pelos anunciantes; campos "não informado" não foram publicados. Confirme valores e condições diretamente com o anunciante antes de qualquer pagamento.
