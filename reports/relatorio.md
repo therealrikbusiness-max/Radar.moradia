@@ -1,13 +1,13 @@
-# RADAR MORADIA — relatório de 2026-11-12T18:57:13+00:00
+# RADAR MORADIA — relatório de 2026-11-13T02:37:50+00:00
 
 Critérios: total até **R$ 900,00** (prioridade) e teto **R$ 1.100,00**, Paulínia e Barão Geraldo/Campinas, kitnet, studio, edícula, casa de fundos, casa de 1 quarto ou casa pequena.
 
 ## Fontes nesta execução
 | Fonte | Situação | Anúncios coletados | Observação |
 |---|---|---|---|
-| chavesnamao | ok | 215 | — |
+| chavesnamao | ok | 210 | — |
 
-**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 33 indisponíveis
+**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 32 indisponíveis
 
 ## 📊 Panorama da área-alvo
 - Anúncios do tipo procurado na área-alvo (ativos): **4**; acima do teto: **4**.
@@ -59,7 +59,7 @@ _Nenhum anúncio nesta categoria._
 - [Casa](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-jardim-florence-RS1300/id-14458440/) — Jardim Florence, R$ 1.300,00
 - [Apartamento para Aluguel - Jardim das Bandeiras, 2 Quartos,  46 m² - Campinas](https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-sp-campinas-jardim-das-bandeiras-RS1325/id-48571971/) — Jardim das Bandeiras, R$ 1.325,00
 - [Apartamento para locação, 50m² - Condomínio Marquês de Três Rios - Botafogo, Campinas/SP](https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-sp-campinas-jardim-conceicao-RS1230/id-48617074/) — Jardim Conceição, R$ 1.230,00
-- [Casa](https://www.chavesnamao.com.br/imovel/casa-para-alugar-sp-campinas-vila-industrial-RS1400/id-48386146/) — Vila Industrial, R$ 1.400,00
+- [Apartamento com 2 Quartos para alugar, 55 m² - Vila Padre Manoel de Nóbrega - Campinas/SP](https://www.chavesnamao.com.br/imovel/apartamento-para-alugar-sp-campinas-vila-padre-manoel-de-nobrega-RS1287/id-48572303/) — Vila Padre Manoel de Nóbrega, R$ 1.287,00
 
 ---
 Dados conforme publicados pelos anunciantes; campos "não informado" não foram publicados. Confirme valores e condições diretamente com o anunciante antes de qualquer pagamento.
