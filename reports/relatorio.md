@@ -1,17 +1,17 @@
-# RADAR MORADIA — relatório de 2026-11-14T17:09:49+00:00
+# RADAR MORADIA — relatório de 2026-11-15T01:56:53+00:00
 
 Critérios: total até **R$ 900,00** (prioridade) e teto **R$ 1.100,00**, Paulínia e Barão Geraldo/Campinas, kitnet, studio, edícula, casa de fundos, casa de 1 quarto ou casa pequena.
 
 ## Fontes nesta execução
 | Fonte | Situação | Anúncios coletados | Observação |
 |---|---|---|---|
-| chavesnamao | ok | 224 | — |
+| chavesnamao | ok | 197 | — |
 
-**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 38 indisponíveis
+**Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 40 indisponíveis
 
 ## 📊 Panorama da área-alvo
 - Anúncios do tipo procurado na área-alvo (ativos): **5**; acima do teto: **5**.
-- Mais baratos acima do teto (referência de mercado, **não elegíveis**): [R$ 1.200,00 — Jardim Santa Genebra II (Barão Geraldo)](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-jardim-santa-genebra-ii-barao-geraldo-RS1200/id-48745443/); [R$ 1.290,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1290/id-33176872/); [R$ 1.300,00 — Barão Geraldo](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-barao-geraldo-RS1300/id-39390422/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-15824198/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-47774087/)
+- Mais baratos acima do teto (referência de mercado, **não elegíveis**): [R$ 1.200,00 — Jardim Santa Genebra II (Barão Geraldo)](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-jardim-santa-genebra-ii-barao-geraldo-RS1200/id-48745443/); [R$ 1.290,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1290/id-33176872/); [R$ 1.300,00 — Barão Geraldo](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-barao-geraldo-RS1300/id-39390422/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-47774087/); [R$ 1.360,00 — Cidade Universitária](https://www.chavesnamao.com.br/imovel/kitnet-studio-para-alugar-sp-campinas-cidade-universitaria-RS1360/id-15824198/)
 
 ## 🟢 Prioridade (até R$ 900,00)
 
