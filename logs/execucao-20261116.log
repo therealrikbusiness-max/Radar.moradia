@@ -3,3 +3,8 @@
 2026-11-16 02:10:58,756 INFO radar.fonte.chavesnamao: 203 anúncios únicos em 24 páginas
 2026-11-16 02:10:58,793 INFO radar: 6 anúncios de chavesnamao marcados como indisponíveis
 2026-11-16 02:10:58,844 INFO radar: Resumo: {'fontes': [{'fonte': 'chavesnamao', 'ok': True, 'bloqueada': False, 'coletados': 203, 'paginas': 24, 'cobertura_completa': True, 'erros': []}], 'total_banco': 294, 'prioridade': 0, 'elegiveis': 0, 'excepcionais': 0, 'requisicoes': 27}
+2026-11-16 21:02:19,525 INFO radar: Fonte imobiliaria_exemplo desativada na configuração
+2026-11-16 21:02:19,525 INFO radar: Coletando fonte chavesnamao
+2026-11-16 21:04:03,710 INFO radar.fonte.chavesnamao: 199 anúncios únicos em 24 páginas
+2026-11-16 21:04:03,764 INFO radar: 3 anúncios de chavesnamao marcados como indisponíveis
+2026-11-16 21:04:03,835 INFO radar: Resumo: {'fontes': [{'fonte': 'chavesnamao', 'ok': True, 'bloqueada': False, 'coletados': 199, 'paginas': 24, 'cobertura_completa': True, 'erros': []}], 'total_banco': 294, 'prioridade': 0, 'elegiveis': 0, 'excepcionais': 0, 'requisicoes': 27}
