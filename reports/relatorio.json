@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-23T02:45:58+00:00",
+  "gerado_em": "2026-11-23T22:39:35+00:00",
   "criterios": {
     "prioridade_max": 900,
     "teto": 1100,
@@ -9,12 +9,14 @@
   "fontes": [
     {
       "fonte": "chavesnamao",
-      "ok": true,
+      "ok": false,
       "bloqueada": false,
-      "coletados": 219,
-      "paginas": 24,
-      "cobertura_completa": true,
-      "erros": []
+      "coletados": 220,
+      "paginas": 23,
+      "cobertura_completa": false,
+      "erros": [
+        "consulta {'transaction': 'aluguel', 'city': 'Paulínia', 'state': 'SP', 'maxPrice': 1400}: MCP inacessível: HTTPSConnectionPool(host='www.chavesnamao.com.br', port=443): Read timed out. (read timeout=30)"
+      ]
     }
   ],
   "prioridade": [],
@@ -2534,5 +2536,5 @@
       "duplicata_de": null
     }
   ],
-  "descartados_qtd": 259
+  "descartados_qtd": 260
 }

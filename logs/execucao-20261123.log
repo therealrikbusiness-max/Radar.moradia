@@ -2,3 +2,10 @@
 2026-11-23 02:45:58,258 INFO radar: Coletando fonte chavesnamao
 2026-11-23 02:47:42,469 INFO radar.fonte.chavesnamao: 219 anúncios únicos em 24 páginas
 2026-11-23 02:47:42,603 INFO radar: Resumo: {'fontes': [{'fonte': 'chavesnamao', 'ok': True, 'bloqueada': False, 'coletados': 219, 'paginas': 24, 'cobertura_completa': True, 'erros': []}], 'total_banco': 323, 'prioridade': 0, 'elegiveis': 0, 'excepcionais': 0, 'requisicoes': 27}
+2026-11-23 22:39:35,045 INFO radar: Fonte imobiliaria_exemplo desativada na configuração
+2026-11-23 22:39:35,045 INFO radar: Coletando fonte chavesnamao
+2026-11-23 22:41:45,262 INFO radar.fonte.chavesnamao: 220 anúncios únicos em 23 páginas
+2026-11-23 22:41:45,300 INFO radar: Coleta de chavesnamao incompleta: não marca indisponíveis
+2026-11-23 22:41:45,300 WARNING radar: [chavesnamao] consulta {'transaction': 'aluguel', 'city': 'Paulínia', 'state': 'SP', 'maxPrice': 1400}: MCP inacessível: HTTPSConnectionPool(host='www.chavesnamao.com.br', port=443): Read timed out. (read timeout=30)
+2026-11-23 22:41:45,361 INFO radar: Resumo: {'fontes': [{'fonte': 'chavesnamao', 'ok': False, 'bloqueada': False, 'coletados': 220, 'paginas': 23, 'cobertura_completa': False, 'erros': ["consulta {'transaction': 'aluguel', 'city': 'Paulínia', 'state': 'SP', 'maxPrice': 1400}: MCP inacessível: HTTPSConnectionPool(host='www.chavesnamao.com.br', port=443): Read timed out. (read timeout=30)"]}], 'total_banco': 324, 'prioridade': 0, 'elegiveis': 0, 'excepcionais': 0, 'requisicoes': 27}
+2026-11-23 22:41:45,364 ERROR radar: Todas as fontes falharam nesta execução
