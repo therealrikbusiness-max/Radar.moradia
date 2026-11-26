@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-25T20:28:52+00:00",
+  "gerado_em": "2026-11-26T04:10:10+00:00",
   "criterios": {
     "prioridade_max": 900,
     "teto": 1100,
@@ -11,7 +11,7 @@
       "fonte": "chavesnamao",
       "ok": true,
       "bloqueada": false,
-      "coletados": 227,
+      "coletados": 223,
       "paginas": 26,
       "cobertura_completa": true,
       "erros": []

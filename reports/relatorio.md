@@ -1,11 +1,11 @@
-# RADAR MORADIA — relatório de 2026-11-25T20:28:52+00:00
+# RADAR MORADIA — relatório de 2026-11-26T04:10:10+00:00
 
 Critérios: total até **R$ 900,00** (prioridade) e teto **R$ 1.100,00**, Paulínia e Barão Geraldo/Campinas, kitnet, studio, edícula, casa de fundos, casa de 1 quarto ou casa pequena.
 
 ## Fontes nesta execução
 | Fonte | Situação | Anúncios coletados | Observação |
 |---|---|---|---|
-| chavesnamao | ok | 227 | — |
+| chavesnamao | ok | 223 | — |
 
 **Resumo:** 0 prioridade · 0 elegíveis · 0 a verificar · 0 excepcionais (acima do teto) · 0 novos relevantes · 68 indisponíveis
 
